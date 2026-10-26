@@ -1,0 +1,132 @@
+{
+  "question_pattern_name": "Q. N",
+  "question_regex": "Q\\.\\s*(\\d{1,4})",
+  "marker_regexes": [
+    "Option\\s*[1-9]\\s*:",
+    "(?m)^\\s*\\(?[A-D]\\)?[.)]\\s+\\S",
+    "Correct\\s+Answer\\s*:",
+    "\\bAns(?:wer)?\\s*[:.]",
+    "\\bSolution\\s*:"
+  ],
+  "numbering_regime": "resets_per_section",
+  "watermark_frac": [
+    -0.08,
+    0.08
+  ],
+  "draw_ops_high": 125,
+  "ad_cluster_pages": [],
+  "ad_score_delete": 3,
+  "content_colour_p95": 0.00642,
+  "colour_multiple": 10.0,
+  "colour_floor": 0.01,
+  "colour_score": 2,
+  "colour_dpi": 50,
+  "colour_sat": 40,
+  "min_cluster": 3,
+  "warnings": [
+    "no repeated page templates found; ad detection will rely on hyperlinks and keywords only"
+  ],
+  "stats": {
+    "question_pattern_scores": {
+      "Q. N": {
+        "hits": 900,
+        "longest": 30,
+        "coherence": 1.0,
+        "score": 30.0,
+        "runs": 30
+      },
+      "Q N": {
+        "hits": 5,
+        "longest": 1,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 5
+      },
+      "QN)": {
+        "hits": 0,
+        "longest": 0,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 0
+      },
+      "Question N": {
+        "hits": 0,
+        "longest": 0,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 0
+      },
+      "Ques. N": {
+        "hits": 0,
+        "longest": 0,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 0
+      },
+      "N. inline": {
+        "hits": 11,
+        "longest": 2,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 10
+      },
+      "N.": {
+        "hits": 247,
+        "longest": 5,
+        "coherence": 0.0202,
+        "score": 0.1,
+        "runs": 218
+      },
+      "N)": {
+        "hits": 156,
+        "longest": 4,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 134
+      },
+      "(N)": {
+        "hits": 29,
+        "longest": 3,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 19
+      },
+      "Sol. N": {
+        "hits": 0,
+        "longest": 0,
+        "coherence": 0.0,
+        "score": 0.0,
+        "runs": 0
+      }
+    },
+    "marker_hits": {
+      "option_numbered": 2403,
+      "option_lettered": 321,
+      "correct_answer": 899,
+      "answer": 907,
+      "solution": 900
+    },
+    "watermark": {
+      "frac": 0.0,
+      "present_on": 1.0
+    },
+    "draw_ops": {
+      "content_median": 34.0,
+      "content_p99": 100,
+      "threshold": 125
+    },
+    "colour": {
+      "sampled_content_pages": 40,
+      "content_median": 0.0046,
+      "content_p95": 0.00642,
+      "content_max": 0.00654,
+      "threshold": 0.0642,
+      "score_added": 2
+    },
+    "ad_clusters": {},
+    "numbering": {
+      "total_markers": 900,
+      "resets": 29
+    }
+  }
+}
