@@ -1,0 +1,271 @@
+q_id,section_index,paper,subject_label,q_no,content_page,page_end,original_page,orig_page_end
+S01|Physics|Q001,1,Offline 16th April,Physics,1,1,2,3,4
+S01|Physics|Q002,1,Offline 16th April,Physics,2,2,3,4,5
+S01|Physics|Q003,1,Offline 16th April,Physics,3,3,4,5,6
+S01|Physics|Q004,1,Offline 16th April,Physics,4,4,5,6,7
+S01|Physics|Q005,1,Offline 16th April,Physics,5,5,7,7,10
+S01|Physics|Q006,1,Offline 16th April,Physics,6,7,8,10,11
+S01|Physics|Q007,1,Offline 16th April,Physics,7,8,9,11,12
+S01|Physics|Q008,1,Offline 16th April,Physics,8,9,10,12,13
+S01|Physics|Q009,1,Offline 16th April,Physics,9,10,12,13,16
+S01|Physics|Q010,1,Offline 16th April,Physics,10,12,13,16,17
+S01|Physics|Q011,1,Offline 16th April,Physics,11,13,14,17,18
+S01|Physics|Q012,1,Offline 16th April,Physics,12,14,16,18,21
+S01|Physics|Q013,1,Offline 16th April,Physics,13,16,17,21,22
+S01|Physics|Q014,1,Offline 16th April,Physics,14,17,18,22,23
+S01|Physics|Q015,1,Offline 16th April,Physics,15,18,18,23,23
+S01|Physics|Q016,1,Offline 16th April,Physics,16,18,20,23,25
+S01|Physics|Q017,1,Offline 16th April,Physics,17,20,21,25,27
+S01|Physics|Q018,1,Offline 16th April,Physics,18,21,22,27,28
+S01|Physics|Q019,1,Offline 16th April,Physics,19,22,22,28,28
+S01|Physics|Q020,1,Offline 16th April,Physics,20,22,23,28,29
+S01|Physics|Q021,1,Offline 16th April,Physics,21,23,25,29,31
+S01|Physics|Q022,1,Offline 16th April,Physics,22,25,26,31,33
+S01|Physics|Q023,1,Offline 16th April,Physics,23,26,27,33,34
+S01|Physics|Q024,1,Offline 16th April,Physics,24,27,28,34,35
+S01|Physics|Q025,1,Offline 16th April,Physics,25,28,29,35,36
+S01|Physics|Q026,1,Offline 16th April,Physics,26,29,31,36,39
+S01|Physics|Q027,1,Offline 16th April,Physics,27,31,31,39,39
+S01|Physics|Q028,1,Offline 16th April,Physics,28,31,32,39,40
+S01|Physics|Q029,1,Offline 16th April,Physics,29,32,33,40,41
+S01|Physics|Q030,1,Offline 16th April,Physics,30,33,33,41,41
+S02|Chemistry|Q001,2,Offline 16th April,Chemistry,1,33,34,41,42
+S02|Chemistry|Q002,2,Offline 16th April,Chemistry,2,34,35,42,43
+S02|Chemistry|Q003,2,Offline 16th April,Chemistry,3,35,36,43,45
+S02|Chemistry|Q004,2,Offline 16th April,Chemistry,4,36,36,45,45
+S02|Chemistry|Q005,2,Offline 16th April,Chemistry,5,36,37,45,46
+S02|Chemistry|Q006,2,Offline 16th April,Chemistry,6,37,38,46,47
+S02|Chemistry|Q007,2,Offline 16th April,Chemistry,7,38,38,47,47
+S02|Chemistry|Q008,2,Offline 16th April,Chemistry,8,38,39,47,48
+S02|Chemistry|Q009,2,Offline 16th April,Chemistry,9,39,40,48,49
+S02|Chemistry|Q010,2,Offline 16th April,Chemistry,10,40,42,49,52
+S02|Chemistry|Q011,2,Offline 16th April,Chemistry,11,42,42,52,52
+S02|Chemistry|Q012,2,Offline 16th April,Chemistry,12,42,43,52,53
+S02|Chemistry|Q013,2,Offline 16th April,Chemistry,13,43,44,53,54
+S02|Chemistry|Q014,2,Offline 16th April,Chemistry,14,44,45,54,55
+S02|Chemistry|Q015,2,Offline 16th April,Chemistry,15,45,46,55,57
+S02|Chemistry|Q016,2,Offline 16th April,Chemistry,16,46,48,57,59
+S02|Chemistry|Q017,2,Offline 16th April,Chemistry,17,48,48,59,59
+S02|Chemistry|Q018,2,Offline 16th April,Chemistry,18,48,49,59,60
+S02|Chemistry|Q019,2,Offline 16th April,Chemistry,19,49,50,60,61
+S02|Chemistry|Q020,2,Offline 16th April,Chemistry,20,50,50,61,61
+S02|Chemistry|Q021,2,Offline 16th April,Chemistry,21,50,52,61,64
+S02|Chemistry|Q022,2,Offline 16th April,Chemistry,22,52,53,64,65
+S02|Chemistry|Q023,2,Offline 16th April,Chemistry,23,53,54,65,66
+S02|Chemistry|Q024,2,Offline 16th April,Chemistry,24,54,55,66,67
+S02|Chemistry|Q025,2,Offline 16th April,Chemistry,25,55,56,67,69
+S02|Chemistry|Q026,2,Offline 16th April,Chemistry,26,56,57,69,70
+S02|Chemistry|Q027,2,Offline 16th April,Chemistry,27,57,58,70,71
+S02|Chemistry|Q028,2,Offline 16th April,Chemistry,28,58,60,71,73
+S02|Chemistry|Q029,2,Offline 16th April,Chemistry,29,60,62,73,76
+S02|Chemistry|Q030,2,Offline 16th April,Chemistry,30,62,63,76,77
+S03|Mathematics|Q001,3,Offline 16th April,Mathematics,1,63,64,77,78
+S03|Mathematics|Q002,3,Offline 16th April,Mathematics,2,64,66,78,81
+S03|Mathematics|Q003,3,Offline 16th April,Mathematics,3,66,67,81,82
+S03|Mathematics|Q004,3,Offline 16th April,Mathematics,4,67,68,82,83
+S03|Mathematics|Q005,3,Offline 16th April,Mathematics,5,68,69,83,84
+S03|Mathematics|Q006,3,Offline 16th April,Mathematics,6,69,70,84,85
+S03|Mathematics|Q007,3,Offline 16th April,Mathematics,7,70,71,85,87
+S03|Mathematics|Q008,3,Offline 16th April,Mathematics,8,71,72,87,88
+S03|Mathematics|Q009,3,Offline 16th April,Mathematics,9,72,73,88,89
+S03|Mathematics|Q010,3,Offline 16th April,Mathematics,10,73,75,89,91
+S03|Mathematics|Q011,3,Offline 16th April,Mathematics,11,75,76,91,93
+S03|Mathematics|Q012,3,Offline 16th April,Mathematics,12,76,77,93,94
+S03|Mathematics|Q013,3,Offline 16th April,Mathematics,13,77,78,94,95
+S03|Mathematics|Q014,3,Offline 16th April,Mathematics,14,78,79,95,96
+S03|Mathematics|Q015,3,Offline 16th April,Mathematics,15,79,81,96,99
+S03|Mathematics|Q016,3,Offline 16th April,Mathematics,16,81,82,99,100
+S03|Mathematics|Q017,3,Offline 16th April,Mathematics,17,82,84,100,102
+S03|Mathematics|Q018,3,Offline 16th April,Mathematics,18,84,85,102,103
+S03|Mathematics|Q019,3,Offline 16th April,Mathematics,19,85,87,103,106
+S03|Mathematics|Q020,3,Offline 16th April,Mathematics,20,87,89,106,108
+S03|Mathematics|Q021,3,Offline 16th April,Mathematics,21,89,90,108,109
+S03|Mathematics|Q022,3,Offline 16th April,Mathematics,22,90,92,109,112
+S03|Mathematics|Q023,3,Offline 16th April,Mathematics,23,92,93,112,113
+S03|Mathematics|Q024,3,Offline 16th April,Mathematics,24,93,94,113,114
+S03|Mathematics|Q025,3,Offline 16th April,Mathematics,25,94,96,114,117
+S03|Mathematics|Q026,3,Offline 16th April,Mathematics,26,96,98,117,119
+S03|Mathematics|Q027,3,Offline 16th April,Mathematics,27,98,98,119,119
+S03|Mathematics|Q028,3,Offline 16th April,Mathematics,28,98,99,119,120
+S03|Mathematics|Q029,3,Offline 16th April,Mathematics,29,99,101,120,123
+S03|Mathematics|Q030,3,Offline 16th April,Mathematics,30,101,102,123,124
+S04|Physics|Q001,4,Online 15th April (Morning Shift),Physics,1,102,103,124,125
+S04|Physics|Q002,4,Online 15th April (Morning Shift),Physics,2,103,104,125,126
+S04|Physics|Q003,4,Online 15th April (Morning Shift),Physics,3,104,106,126,129
+S04|Physics|Q004,4,Online 15th April (Morning Shift),Physics,4,106,107,129,130
+S04|Physics|Q005,4,Online 15th April (Morning Shift),Physics,5,107,109,130,132
+S04|Physics|Q006,4,Online 15th April (Morning Shift),Physics,6,109,110,132,133
+S04|Physics|Q007,4,Online 15th April (Morning Shift),Physics,7,110,112,133,136
+S04|Physics|Q008,4,Online 15th April (Morning Shift),Physics,8,112,113,136,137
+S04|Physics|Q009,4,Online 15th April (Morning Shift),Physics,9,113,114,137,138
+S04|Physics|Q010,4,Online 15th April (Morning Shift),Physics,10,114,116,138,141
+S04|Physics|Q011,4,Online 15th April (Morning Shift),Physics,11,116,117,141,142
+S04|Physics|Q012,4,Online 15th April (Morning Shift),Physics,12,117,118,142,143
+S04|Physics|Q013,4,Online 15th April (Morning Shift),Physics,13,118,119,143,144
+S04|Physics|Q014,4,Online 15th April (Morning Shift),Physics,14,119,120,144,145
+S04|Physics|Q015,4,Online 15th April (Morning Shift),Physics,15,120,122,145,148
+S04|Physics|Q016,4,Online 15th April (Morning Shift),Physics,16,122,124,148,150
+S04|Physics|Q017,4,Online 15th April (Morning Shift),Physics,17,124,126,150,153
+S04|Physics|Q018,4,Online 15th April (Morning Shift),Physics,18,126,127,153,154
+S04|Physics|Q019,4,Online 15th April (Morning Shift),Physics,19,127,128,154,155
+S04|Physics|Q020,4,Online 15th April (Morning Shift),Physics,20,128,129,155,156
+S04|Physics|Q021,4,Online 15th April (Morning Shift),Physics,21,129,130,156,157
+S04|Physics|Q022,4,Online 15th April (Morning Shift),Physics,22,130,132,157,160
+S04|Physics|Q023,4,Online 15th April (Morning Shift),Physics,23,132,133,160,161
+S04|Physics|Q024,4,Online 15th April (Morning Shift),Physics,24,133,134,161,162
+S04|Physics|Q025,4,Online 15th April (Morning Shift),Physics,25,134,135,162,163
+S04|Physics|Q026,4,Online 15th April (Morning Shift),Physics,26,135,136,163,165
+S04|Physics|Q027,4,Online 15th April (Morning Shift),Physics,27,136,137,165,166
+S04|Physics|Q028,4,Online 15th April (Morning Shift),Physics,28,137,137,166,166
+S04|Physics|Q029,4,Online 15th April (Morning Shift),Physics,29,137,139,166,168
+S04|Physics|Q030,4,Online 15th April (Morning Shift),Physics,30,139,139,168,168
+S05|Chemistry|Q001,5,Online 15th April (Morning Shift),Chemistry,1,139,141,168,171
+S05|Chemistry|Q002,5,Online 15th April (Morning Shift),Chemistry,2,141,143,171,173
+S05|Chemistry|Q003,5,Online 15th April (Morning Shift),Chemistry,3,143,144,173,174
+S05|Chemistry|Q004,5,Online 15th April (Morning Shift),Chemistry,4,144,145,174,175
+S05|Chemistry|Q005,5,Online 15th April (Morning Shift),Chemistry,5,145,146,175,177
+S05|Chemistry|Q006,5,Online 15th April (Morning Shift),Chemistry,6,146,147,177,178
+S05|Chemistry|Q007,5,Online 15th April (Morning Shift),Chemistry,7,147,148,178,179
+S05|Chemistry|Q008,5,Online 15th April (Morning Shift),Chemistry,8,148,148,179,179
+S05|Chemistry|Q009,5,Online 15th April (Morning Shift),Chemistry,9,148,149,179,180
+S05|Chemistry|Q010,5,Online 15th April (Morning Shift),Chemistry,10,149,150,180,181
+S05|Chemistry|Q011,5,Online 15th April (Morning Shift),Chemistry,11,150,151,181,183
+S05|Chemistry|Q012,5,Online 15th April (Morning Shift),Chemistry,12,151,151,183,183
+S05|Chemistry|Q013,5,Online 15th April (Morning Shift),Chemistry,13,151,152,183,184
+S05|Chemistry|Q014,5,Online 15th April (Morning Shift),Chemistry,14,152,153,184,185
+S05|Chemistry|Q015,5,Online 15th April (Morning Shift),Chemistry,15,153,153,185,185
+S05|Chemistry|Q016,5,Online 15th April (Morning Shift),Chemistry,16,153,156,185,189
+S05|Chemistry|Q017,5,Online 15th April (Morning Shift),Chemistry,17,156,157,189,190
+S05|Chemistry|Q018,5,Online 15th April (Morning Shift),Chemistry,18,157,158,190,191
+S05|Chemistry|Q019,5,Online 15th April (Morning Shift),Chemistry,19,158,159,191,192
+S05|Chemistry|Q020,5,Online 15th April (Morning Shift),Chemistry,20,159,160,192,193
+S05|Chemistry|Q021,5,Online 15th April (Morning Shift),Chemistry,21,160,161,193,195
+S05|Chemistry|Q022,5,Online 15th April (Morning Shift),Chemistry,22,161,163,195,197
+S05|Chemistry|Q023,5,Online 15th April (Morning Shift),Chemistry,23,163,164,197,198
+S05|Chemistry|Q024,5,Online 15th April (Morning Shift),Chemistry,24,164,165,198,199
+S05|Chemistry|Q025,5,Online 15th April (Morning Shift),Chemistry,25,165,167,199,202
+S05|Chemistry|Q026,5,Online 15th April (Morning Shift),Chemistry,26,167,168,202,203
+S05|Chemistry|Q027,5,Online 15th April (Morning Shift),Chemistry,27,168,169,203,204
+S05|Chemistry|Q028,5,Online 15th April (Morning Shift),Chemistry,28,169,170,204,205
+S05|Chemistry|Q029,5,Online 15th April (Morning Shift),Chemistry,29,170,172,205,208
+S05|Chemistry|Q030,5,Online 15th April (Morning Shift),Chemistry,30,172,173,208,209
+S06|Mathematics|Q001,6,Online 15th April (Morning Shift),Mathematics,1,173,174,209,210
+S06|Mathematics|Q002,6,Online 15th April (Morning Shift),Mathematics,2,174,176,210,213
+S06|Mathematics|Q003,6,Online 15th April (Morning Shift),Mathematics,3,176,177,213,214
+S06|Mathematics|Q004,6,Online 15th April (Morning Shift),Mathematics,4,177,178,214,215
+S06|Mathematics|Q005,6,Online 15th April (Morning Shift),Mathematics,5,178,180,215,217
+S06|Mathematics|Q006,6,Online 15th April (Morning Shift),Mathematics,6,180,180,217,217
+S06|Mathematics|Q007,6,Online 15th April (Morning Shift),Mathematics,7,180,182,217,220
+S06|Mathematics|Q008,6,Online 15th April (Morning Shift),Mathematics,8,182,183,220,221
+S06|Mathematics|Q009,6,Online 15th April (Morning Shift),Mathematics,9,183,183,221,221
+S06|Mathematics|Q010,6,Online 15th April (Morning Shift),Mathematics,10,183,185,221,223
+S06|Mathematics|Q011,6,Online 15th April (Morning Shift),Mathematics,11,185,186,223,225
+S06|Mathematics|Q012,6,Online 15th April (Morning Shift),Mathematics,12,186,187,225,226
+S06|Mathematics|Q013,6,Online 15th April (Morning Shift),Mathematics,13,187,189,226,228
+S06|Mathematics|Q014,6,Online 15th April (Morning Shift),Mathematics,14,189,191,228,231
+S06|Mathematics|Q015,6,Online 15th April (Morning Shift),Mathematics,15,191,192,231,232
+S06|Mathematics|Q016,6,Online 15th April (Morning Shift),Mathematics,16,192,195,232,235
+S06|Mathematics|Q017,6,Online 15th April (Morning Shift),Mathematics,17,195,196,235,237
+S06|Mathematics|Q018,6,Online 15th April (Morning Shift),Mathematics,18,196,197,237,238
+S06|Mathematics|Q019,6,Online 15th April (Morning Shift),Mathematics,19,197,199,238,240
+S06|Mathematics|Q020,6,Online 15th April (Morning Shift),Mathematics,20,199,200,240,241
+S06|Mathematics|Q021,6,Online 15th April (Morning Shift),Mathematics,21,200,203,241,245
+S06|Mathematics|Q022,6,Online 15th April (Morning Shift),Mathematics,22,203,204,245,246
+S06|Mathematics|Q023,6,Online 15th April (Morning Shift),Mathematics,23,204,206,246,249
+S06|Mathematics|Q024,6,Online 15th April (Morning Shift),Mathematics,24,206,207,249,250
+S06|Mathematics|Q025,6,Online 15th April (Morning Shift),Mathematics,25,207,208,250,251
+S06|Mathematics|Q026,6,Online 15th April (Morning Shift),Mathematics,26,208,209,251,252
+S06|Mathematics|Q027,6,Online 15th April (Morning Shift),Mathematics,27,209,210,252,253
+S06|Mathematics|Q028,6,Online 15th April (Morning Shift),Mathematics,28,210,211,253,255
+S06|Mathematics|Q029,6,Online 15th April (Morning Shift),Mathematics,29,211,212,255,256
+S06|Mathematics|Q030,6,Online 15th April (Morning Shift),Mathematics,30,212,214,256,258
+S07|Physics|Q001,7,Online 15th April (Evening Shift),Physics,1,214,215,258,259
+S07|Physics|Q002,7,Online 15th April (Evening Shift),Physics,2,215,216,259,261
+S07|Physics|Q003,7,Online 15th April (Evening Shift),Physics,3,216,218,261,263
+S07|Physics|Q004,7,Online 15th April (Evening Shift),Physics,4,218,219,263,264
+S07|Physics|Q005,7,Online 15th April (Evening Shift),Physics,5,219,221,264,267
+S07|Physics|Q006,7,Online 15th April (Evening Shift),Physics,6,221,223,267,269
+S07|Physics|Q007,7,Online 15th April (Evening Shift),Physics,7,223,224,269,270
+S07|Physics|Q008,7,Online 15th April (Evening Shift),Physics,8,224,225,270,271
+S07|Physics|Q009,7,Online 15th April (Evening Shift),Physics,9,225,226,271,273
+S07|Physics|Q010,7,Online 15th April (Evening Shift),Physics,10,226,228,273,275
+S07|Physics|Q011,7,Online 15th April (Evening Shift),Physics,11,228,228,275,275
+S07|Physics|Q012,7,Online 15th April (Evening Shift),Physics,12,228,230,275,277
+S07|Physics|Q013,7,Online 15th April (Evening Shift),Physics,13,230,231,277,279
+S07|Physics|Q014,7,Online 15th April (Evening Shift),Physics,14,231,232,279,280
+S07|Physics|Q015,7,Online 15th April (Evening Shift),Physics,15,232,234,280,282
+S07|Physics|Q016,7,Online 15th April (Evening Shift),Physics,16,234,235,282,283
+S07|Physics|Q017,7,Online 15th April (Evening Shift),Physics,17,235,236,283,285
+S07|Physics|Q018,7,Online 15th April (Evening Shift),Physics,18,236,238,285,287
+S07|Physics|Q019,7,Online 15th April (Evening Shift),Physics,19,238,240,287,289
+S07|Physics|Q020,7,Online 15th April (Evening Shift),Physics,20,240,242,289,292
+S07|Physics|Q021,7,Online 15th April (Evening Shift),Physics,21,242,242,292,292
+S07|Physics|Q022,7,Online 15th April (Evening Shift),Physics,22,242,243,292,293
+S07|Physics|Q023,7,Online 15th April (Evening Shift),Physics,23,243,244,293,294
+S07|Physics|Q024,7,Online 15th April (Evening Shift),Physics,24,244,246,294,297
+S07|Physics|Q025,7,Online 15th April (Evening Shift),Physics,25,246,247,297,298
+S07|Physics|Q026,7,Online 15th April (Evening Shift),Physics,26,247,248,298,299
+S07|Physics|Q027,7,Online 15th April (Evening Shift),Physics,27,248,251,299,303
+S07|Physics|Q028,7,Online 15th April (Evening Shift),Physics,28,251,252,303,304
+S07|Physics|Q029,7,Online 15th April (Evening Shift),Physics,29,252,253,304,305
+S07|Physics|Q030,7,Online 15th April (Evening Shift),Physics,30,253,253,305,305
+S08|Chemistry|Q001,8,Online 15th April (Evening Shift),Chemistry,1,253,255,305,307
+S08|Chemistry|Q002,8,Online 15th April (Evening Shift),Chemistry,2,255,256,307,309
+S08|Chemistry|Q003,8,Online 15th April (Evening Shift),Chemistry,3,256,256,309,309
+S08|Chemistry|Q004,8,Online 15th April (Evening Shift),Chemistry,4,256,257,309,310
+S08|Chemistry|Q005,8,Online 15th April (Evening Shift),Chemistry,5,257,258,310,311
+S08|Chemistry|Q006,8,Online 15th April (Evening Shift),Chemistry,6,258,259,311,312
+S08|Chemistry|Q007,8,Online 15th April (Evening Shift),Chemistry,7,259,262,312,316
+S08|Chemistry|Q008,8,Online 15th April (Evening Shift),Chemistry,8,262,263,316,317
+S08|Chemistry|Q009,8,Online 15th April (Evening Shift),Chemistry,9,263,264,317,318
+S08|Chemistry|Q010,8,Online 15th April (Evening Shift),Chemistry,10,264,264,318,318
+S08|Chemistry|Q011,8,Online 15th April (Evening Shift),Chemistry,11,264,265,318,319
+S08|Chemistry|Q012,8,Online 15th April (Evening Shift),Chemistry,12,265,266,319,321
+S08|Chemistry|Q013,8,Online 15th April (Evening Shift),Chemistry,13,266,266,321,321
+S08|Chemistry|Q014,8,Online 15th April (Evening Shift),Chemistry,14,266,267,321,322
+S08|Chemistry|Q015,8,Online 15th April (Evening Shift),Chemistry,15,267,268,322,323
+S08|Chemistry|Q016,8,Online 15th April (Evening Shift),Chemistry,16,268,269,323,324
+S08|Chemistry|Q017,8,Online 15th April (Evening Shift),Chemistry,17,269,269,324,324
+S08|Chemistry|Q018,8,Online 15th April (Evening Shift),Chemistry,18,269,270,324,325
+S08|Chemistry|Q019,8,Online 15th April (Evening Shift),Chemistry,19,270,271,325,327
+S08|Chemistry|Q020,8,Online 15th April (Evening Shift),Chemistry,20,271,272,327,328
+S08|Chemistry|Q021,8,Online 15th April (Evening Shift),Chemistry,21,272,272,328,328
+S08|Chemistry|Q022,8,Online 15th April (Evening Shift),Chemistry,22,272,273,328,329
+S08|Chemistry|Q023,8,Online 15th April (Evening Shift),Chemistry,23,273,274,329,330
+S08|Chemistry|Q024,8,Online 15th April (Evening Shift),Chemistry,24,274,275,330,331
+S08|Chemistry|Q025,8,Online 15th April (Evening Shift),Chemistry,25,275,276,331,333
+S08|Chemistry|Q026,8,Online 15th April (Evening Shift),Chemistry,26,276,278,333,335
+S08|Chemistry|Q027,8,Online 15th April (Evening Shift),Chemistry,27,278,279,335,336
+S08|Chemistry|Q028,8,Online 15th April (Evening Shift),Chemistry,28,279,280,336,337
+S08|Chemistry|Q029,8,Online 15th April (Evening Shift),Chemistry,29,280,281,337,339
+S08|Chemistry|Q030,8,Online 15th April (Evening Shift),Chemistry,30,281,283,339,341
+S09|Mathematics|Q001,9,Online 15th April (Evening Shift),Mathematics,1,283,284,341,342
+S09|Mathematics|Q002,9,Online 15th April (Evening Shift),Mathematics,2,284,286,342,345
+S09|Mathematics|Q003,9,Online 15th April (Evening Shift),Mathematics,3,286,287,345,346
+S09|Mathematics|Q004,9,Online 15th April (Evening Shift),Mathematics,4,287,288,346,347
+S09|Mathematics|Q005,9,Online 15th April (Evening Shift),Mathematics,5,288,289,347,348
+S09|Mathematics|Q006,9,Online 15th April (Evening Shift),Mathematics,6,289,290,348,349
+S09|Mathematics|Q007,9,Online 15th April (Evening Shift),Mathematics,7,290,291,349,351
+S09|Mathematics|Q008,9,Online 15th April (Evening Shift),Mathematics,8,291,292,351,352
+S09|Mathematics|Q009,9,Online 15th April (Evening Shift),Mathematics,9,292,294,352,354
+S09|Mathematics|Q010,9,Online 15th April (Evening Shift),Mathematics,10,294,295,354,355
+S09|Mathematics|Q011,9,Online 15th April (Evening Shift),Mathematics,11,295,296,355,357
+S09|Mathematics|Q012,9,Online 15th April (Evening Shift),Mathematics,12,296,297,357,358
+S09|Mathematics|Q013,9,Online 15th April (Evening Shift),Mathematics,13,297,299,358,360
+S09|Mathematics|Q014,9,Online 15th April (Evening Shift),Mathematics,14,299,301,360,363
+S09|Mathematics|Q015,9,Online 15th April (Evening Shift),Mathematics,15,301,302,363,364
+S09|Mathematics|Q016,9,Online 15th April (Evening Shift),Mathematics,16,302,303,364,365
+S09|Mathematics|Q017,9,Online 15th April (Evening Shift),Mathematics,17,303,304,365,366
+S09|Mathematics|Q018,9,Online 15th April (Evening Shift),Mathematics,18,304,305,366,367
+S09|Mathematics|Q019,9,Online 15th April (Evening Shift),Mathematics,19,305,307,367,370
+S09|Mathematics|Q020,9,Online 15th April (Evening Shift),Mathematics,20,307,308,370,371
+S09|Mathematics|Q021,9,Online 15th April (Evening Shift),Mathematics,21,308,309,371,372
+S09|Mathematics|Q022,9,Online 15th April (Evening Shift),Mathematics,22,309,311,372,375
+S09|Mathematics|Q023,9,Online 15th April (Evening Shift),Mathematics,23,311,313,375,377
+S09|Mathematics|Q024,9,Online 15th April (Evening Shift),Mathematics,24,313,314,377,378
+S09|Mathematics|Q025,9,Online 15th April (Evening Shift),Mathematics,25,314,316,378,381
+S09|Mathematics|Q026,9,Online 15th April (Evening Shift),Mathematics,26,316,317,381,382
+S09|Mathematics|Q027,9,Online 15th April (Evening Shift),Mathematics,27,317,319,382,384
+S09|Mathematics|Q028,9,Online 15th April (Evening Shift),Mathematics,28,319,320,384,385
+S09|Mathematics|Q029,9,Online 15th April (Evening Shift),Mathematics,29,320,322,385,388
+S09|Mathematics|Q030,9,Online 15th April (Evening Shift),Mathematics,30,322,323,388,389

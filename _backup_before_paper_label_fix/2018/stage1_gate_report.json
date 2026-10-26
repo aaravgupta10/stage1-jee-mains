@@ -1,0 +1,36 @@
+{
+  "outdir": "C:\\Users\\Aarav Gupta\\Downloads\\stage1_jeemains_even_years\\output\\2018_verify_v3",
+  "questions_found": 270,
+  "sections": 9,
+  "questions_per_section": {
+    "1": 30,
+    "2": 30,
+    "3": 30,
+    "4": 30,
+    "5": 30,
+    "6": 30,
+    "7": 30,
+    "8": 30,
+    "9": 30
+  },
+  "sections_clean_1_to_n": 9,
+  "sections_total": 9,
+  "duplicate_q_ids": 0,
+  "rows_lost_to_duplicate_q_ids": 0,
+  "orphan_content_pages": [],
+  "rows_with_paper_label": 270,
+  "ad_pages_removed": 70,
+  "ad_pages_colour_flagged": 70,
+  "ad_pages_colour_was_decisive": [],
+  "colour_threshold": 0.0133,
+  "review_pages_kept": [
+    15,
+    262,
+    291,
+    315,
+    387,
+    389
+  ],
+  "hard_stops": 0,
+  "passed": true
+}

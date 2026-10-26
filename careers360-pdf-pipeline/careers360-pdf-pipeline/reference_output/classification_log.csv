@@ -1,0 +1,394 @@
+page,verdict,ad_score,reason,chars,markers,ad_keywords,links,draw_ops,n_images,img_frac_total,img_frac_largest,colour_frac,has_watermark,fp,fp_cluster_size,in_ad_cluster,outside_question_range,question_nums,subjects,paper,head
+1,AD,7,"no markers; ad keyword x1, draw_ops=180, no template watermark, coloured 31.2% (content baseline 0.13%), outside question range (front/back matter)",193,0,1,0,180,2,0.4169,0.3433,0.3119,False,dc72a975cf,1,False,True,,,,6 | NEET: JHARKHAND STATE COUNSELLING | 3 sets having 270 questions with 
+2,AD,5,"no markers; hyperlink x3, coloured 1.8% (content baseline 0.13%), outside question range (front/back matter)",222,0,0,3,3,1,0.6002,0.6002,0.0181,True,603c8b2e97,1,False,True,,,Offline 16th April (Questions with detailed solutions) ,1 | Offline 16th April (Questions with detailed solutions)   | 03
+3,CONTENT,0,7 content marker(s),304,7,0,0,20,8,0.6685,0.5999,0.0007,True,70f135040e,1,False,False,1,Physics,Offline 16th April,Offline 16th April | Physics | Q. 1
+4,CONTENT,0,7 content marker(s),170,7,0,0,15,18,0.6404,0.5999,0.0006,True,1cbffe1b38,1,False,False,2,,,Q. 2 | Let   |  The magnitude of a coplanar vector 
+5,CONTENT,0,7 content marker(s),436,7,0,0,15,18,0.6406,0.5999,0.0006,True,e0e3fae9ff,1,False,False,3,,,Q. 3 | A body of mass m starts moving from rest along x-axis so that its velocity varies a
+6,CONTENT,0,7 content marker(s),404,7,0,0,15,12,0.6347,0.5999,0.0006,True,2830a4a899,1,False,False,4,,,"Q. 4 | Two particles of the same mass m are moving in circular orbits because of force, gi"
+7,CONTENT,0,5 content marker(s),402,5,0,0,13,10,0.6549,0.5999,0.0,True,084597b19d,1,False,False,5,,,Q. 5 | An oscillator of mass M is at rest in its equilibrium position in a potential  | A 
+8,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+9,CONTENT,0,2 content marker(s),479,2,0,0,3,9,0.6609,0.5999,0.0006,True,edf11f8e4c,1,False,False,,,,Correct Answer: | Solution: | As we have learned
+10,CONTENT,0,7 content marker(s),709,7,0,0,15,8,0.6407,0.5999,0.0024,True,0c7b88ced9,1,False,False,6,,,"Q. 6 | Suppose that the angular velocity of rotation of earth is increased. Then, as a con"
+11,CONTENT,0,7 content marker(s),428,7,0,0,15,3,0.6592,0.5999,0.0007,True,3c82e4240e,1,False,False,7,,,Q. 7 | A thin circular disk is in the xy plane as shown in the figure. The ratio of its | 
+12,CONTENT,0,7 content marker(s),382,7,0,0,15,13,0.6277,0.5999,0.0006,True,4b3115d84d,1,False,False,8,,,Q. 8 | The relative uncertainty in the period of a satellite orbiting around the earth is 
+13,CONTENT,0,3 content marker(s),390,3,0,0,8,11,0.658,0.5999,0.0,True,39353ef2d4,1,False,False,9,,,Q. 9 | A small soap bubble of radius 4 cm is trapped inside another bubble of radius | 6 c
+14,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+15,REVIEW,0,markerless page following an ad page,81,0,0,0,3,8,0.685,0.5999,0.0,True,907f7e1a3e,1,False,False,,,,Change in Pressure of bubble in air - | - wherein | T- Surface tension
+16,CONTENT,0,7 content marker(s),339,7,0,0,15,8,0.659,0.5999,0.0006,True,51615f5296,1,False,False,10,,,Q. 10 | One mole of an ideal monoatomic gas is taken along the path ABCA as shown in | the
+17,CONTENT,0,3 content marker(s),254,3,0,0,8,11,0.645,0.5999,0.0,True,3268404e1f,1,False,False,11,,,Q. 11 | Two moles of helium are mixed with n moles of hydrogen. | If 
+18,CONTENT,0,2 content marker(s),291,2,0,0,7,11,0.6831,0.5999,0.0,True,0a6714441f,1,False,False,12,,,"Q. 12 | A particle executes simple harmonic motion and is located at x=a, b and c at | tim"
+19,CONTENT,0,5 content marker(s),153,5,0,0,9,11,0.6993,0.5999,0.0006,True,a48f0b3e13,1,False,False,,,,Option 2: | Option 3: | Option 4:
+20,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+21,CONTENT,0,3 content marker(s),701,3,0,0,10,10,0.6416,0.5999,0.0,True,811751b3bd,1,False,False,13,,,"Q. 13 | Two sitar strings, A and B, playing the note ‘Dha’ are slightly out of tune and pr"
+22,CONTENT,0,7 content marker(s),775,7,0,0,15,2,0.6114,0.5999,0.0007,True,5700fc260e,1,False,False,14,,,"Q. 14 | Two identical conducting spheres A and B, carry equal charge. They are separated |"
+23,CONTENT,0,8 content marker(s),649,8,0,0,19,13,0.6349,0.5999,0.0006,True,550e3cc4a1,1,False,False,15 16,,,Q. 15 | A heating element has a resistance of 100 Ω at room temperature. When it is | conn
+24,CONTENT,0,6 content marker(s),231,6,0,0,11,18,0.6767,0.5999,0.0006,True,c336ff2311,1,False,False,,,,Option 1: | Option 2: | Option 3:
+25,CONTENT,0,7 content marker(s),286,7,0,0,15,11,0.6632,0.5999,0.0006,True,dc1f6763ed,1,False,False,17,,,"Q. 17 | In the following circuit, the switch S is closed at t=0. The charge on the capacit"
+26,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+27,CONTENT,0,8 content marker(s),392,8,0,0,15,9,0.6324,0.5999,0.0008,True,89eaf43f5e,1,False,False,18,,,Q. 18 | A coil of cross-sectional area A having n turns is placed in a uniform magnetic fi
+28,CONTENT,0,8 content marker(s),694,8,0,0,19,13,0.6478,0.5999,0.0006,True,96c18caa9d,1,False,False,19 20,,,Q. 19 | A charge q is spread uniformly over an insulated loop of radius r. If it is rotate
+29,CONTENT,0,5 content marker(s),331,5,0,0,12,11,0.6559,0.5999,0.0,True,8d9b8f7fb9,1,False,False,21,,,Correct Answer: | 45 | Solution:
+30,CONTENT,0,4 content marker(s),270,4,0,0,9,16,0.6597,0.5999,0.0006,True,3ed46ab2ba,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+31,CONTENT,0,7 content marker(s),410,7,0,0,15,14,0.6776,0.5999,0.0601,True,1d1d219e33,1,False,False,22,,,Q. 22 | A ray of light is incident at an angle of  |  on one face of a prism of angle 
+32,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+33,CONTENT,0,3 content marker(s),341,3,0,0,9,10,0.7356,0.5999,0.0,True,8c998ff92a,1,False,False,23,,,"Q. 23 | Unpolarized light of intensity I is incident on a system of two polarizers, A foll"
+34,CONTENT,0,6 content marker(s),534,6,0,0,13,14,0.6344,0.5999,0.0006,True,8c64bf2c8f,1,False,False,24,,,Option 3: | Option 4: | Correct Answer:
+35,CONTENT,0,7 content marker(s),446,7,0,0,15,16,0.6331,0.5999,0.0006,True,70f5239266,1,False,False,25,,,Option 2: | Option 3: | Option 4:
+36,CONTENT,0,7 content marker(s),712,7,0,0,15,17,0.6298,0.5999,0.0006,True,353ef41ca1,1,False,False,26,,,Option 2: | 10 | Option 3:
+37,CONTENT,0,5 content marker(s),403,5,0,0,9,10,0.6293,0.5999,0.0016,True,a5fe3b33ee,1,False,False,,,,"Option 2: | 20 years and 10 years, respectively | Option 3:"
+38,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+39,CONTENT,0,4 content marker(s),617,4,0,0,12,7,0.6823,0.5999,0.0,True,7538501721,1,False,False,27 28,,,"Q. 27 | In the given circuit, the current (in mA) through zener diode is : | Correct Answe"
+40,CONTENT,0,5 content marker(s),691,5,0,0,11,7,0.6796,0.5999,0.0,True,821301e152,1,False,False,29,,,Correct Answer: | 11.2 | Solution:
+41,CONTENT,0,6 content marker(s),491,6,0,0,16,12,0.6725,0.5999,0.0,True,2f15aba716,1,False,False,30 1,Chemistry,,Q. 30 | The end correction of a resonance column is 1 cm. If the shortest length resonatin
+42,CONTENT,0,11 content marker(s),685,11,0,0,23,14,0.6328,0.5999,0.0024,True,3d64180c64,1,False,False,2,,,Option 3: | Option 4: | Correct Answer:
+43,CONTENT,0,7 content marker(s),398,7,0,0,15,4,0.6258,0.5999,0.0007,True,44a07e205b,1,False,False,3,,,"Q. 3 | Assuming ideal gas behaviour, the ratio of density of ammonia to that of hydrogen c"
+44,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+45,CONTENT,0,4 content marker(s),607,4,0,0,12,7,0.7007,0.5999,0.0005,True,bbd71d54f3,1,False,False,4 5,,,Q. 4 | When 9.65 ampere current was passed for 1.0 hour into nitrobenzene in acidic medium
+46,CONTENT,0,8 content marker(s),333,8,0,0,17,15,0.6661,0.5999,0.0006,True,58cb5043c6,1,False,False,6,,,Option 1: | Option 2: | Option 3:
+47,CONTENT,0,10 content marker(s),937,10,0,0,22,2,0.6238,0.5999,0.0018,True,fb63f749b2,1,False,False,7 8,,,"Option 2: | Lower the temperature, more the adsorption | Option 3:"
+48,CONTENT,0,9 content marker(s),860,9,0,0,19,7,0.6038,0.5999,0.0046,True,9468c85952,1,False,False,9,,,Option 2: | Splitting of spectral lines in electrical field is called Stark effect. | Opti
+49,CONTENT,0,5 content marker(s),329,5,0,0,11,8,0.6395,0.5999,0.0007,True,10f9b5759b,1,False,False,10,,,Option 4: | 4281 | Correct Answer:
+50,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+51,CONTENT,0,5 content marker(s),205,5,0,0,11,7,0.6357,0.5999,0.0008,True,ef12adc3cb,1,False,False,,,,Option 2: | 75 g | Option 3:
+52,CONTENT,0,11 content marker(s),955,11,0,0,25,14,0.6351,0.5999,0.0026,True,9cea5d7d09,1,False,False,11 12,,,Q. 11 | The incorrect statement is : | Option 1:
+53,CONTENT,0,10 content marker(s),549,10,0,0,19,11,0.6346,0.5999,0.002,True,a46d08dec7,1,False,False,13,,,Option 4: | - trigonal bipyramidal | Correct Answer:
+54,CONTENT,0,7 content marker(s),440,7,0,0,15,14,0.6176,0.5999,0.0006,True,f957e4092c,1,False,False,14,,,"Q. 14 | Among the oxides of nitrogen :  | ,"
+55,CONTENT,0,7 content marker(s),732,7,0,0,15,5,0.6286,0.5999,0.0023,True,72445a04b0,1,False,False,15,,,Q. 15 | Which of the following complexes will show geometrical isomerism ? | Option 1:
+56,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+57,CONTENT,0,4 content marker(s),392,4,0,0,11,5,0.7172,0.5999,0.0001,True,6f51d87188,1,False,False,16,,,Q. 16 | In a complexometric titration of metal ion with ligand M(Metal ion)+L(Ligand) → C(
+58,CONTENT,0,3 content marker(s),494,3,0,0,7,5,0.7689,0.5999,0.0006,True,7f4ccee259,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+59,CONTENT,0,12 content marker(s),524,12,0,0,27,12,0.6161,0.5999,0.0006,True,f345a1ccce,1,False,False,17 18,,,"Q. 17 | In the extraction of copper from its sulphide ore, metal is finally obtained by th"
+60,CONTENT,0,9 content marker(s),515,9,0,0,19,11,0.6611,0.5999,0.0016,True,85cabf3100,1,False,False,19,,,Correct Answer: | Solution: | Q. 19
+61,CONTENT,0,9 content marker(s),518,9,0,0,21,7,0.6799,0.5999,0.0008,True,6118ea4e96,1,False,False,20 21,,,Q. 20 | When  |  is fused with an alkali metal hydroxide in presence of an oxidizing agent
+62,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+63,CONTENT,0,5 content marker(s),170,5,0,0,9,6,0.755,0.5999,0.0018,True,b162751376,1,False,False,,,,Option 2: | Option 3: | Option 4:
+64,CONTENT,0,7 content marker(s),587,7,0,0,17,3,0.6515,0.5999,0.001,True,602afff2a3,1,False,False,22,,,"Q. 22 | For standardizing NaOH solution, which  of the following is used as a primary stan"
+65,CONTENT,0,7 content marker(s),227,7,0,0,15,8,0.6824,0.5999,0.0006,True,16eea32609,1,False,False,23,,,Q. 23 | The most polar compound among the following is : | Option 1:
+66,CONTENT,0,11 content marker(s),852,11,0,0,15,4,0.6199,0.5999,0.0015,True,f5540a771b,1,False,False,24,,,Q. 24 | The correct match between items of List - I and List - II is : |  List - I        
+67,CONTENT,0,7 content marker(s),751,7,0,0,15,7,0.652,0.5999,0.002,True,b1d81b3fd5,1,False,False,25,,,"Q. 25 | Among the following, the incorrect statement is : | Option 1:"
+68,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+69,CONTENT,0,7 content marker(s),1065,7,0,0,17,4,0.6172,0.5999,0.0013,True,fb438d2668,1,False,False,26,,,Q. 26 | Which of the following compounds will most readily be dehydrated to give alkene un
+70,CONTENT,0,5 content marker(s),115,5,0,0,13,6,0.83,0.5999,0.0,True,194b8c1904,1,False,False,27,,,Q. 27 | Products A and B formed in the following reactions are respectively : | Option 1:
+71,CONTENT,0,4 content marker(s),172,4,0,0,9,5,0.9849,0.5999,0.0006,True,b7c9c6dd96,1,False,False,28,,,Correct Answer: | Solution: | Q. 28
+72,CONTENT,0,5 content marker(s),218,5,0,0,9,7,0.8258,0.5999,0.0037,True,cbdbcde3b8,1,False,False,,,,Option 2: | Option 3: | Option 4:
+73,CONTENT,0,3 content marker(s),74,3,0,0,9,4,0.7421,0.5999,0.0,True,f28253e81f,1,False,False,29,,,Q. 29 | The major product of the following reaction is : | Option 1:
+74,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+75,CONTENT,0,4 content marker(s),230,4,0,0,7,6,0.8671,0.5999,0.0006,True,d52665bb5f,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+76,CONTENT,0,5 content marker(s),356,5,0,0,13,6,0.777,0.5999,0.0006,True,1001d103a1,1,False,False,30,,,Q. 30 | The major product of the following reaction is : | Option 1:
+77,CONTENT,0,9 content marker(s),480,9,0,0,17,9,0.7687,0.5999,0.0022,True,6e9aa2cf7c,1,False,False,1,Mathematics,,Correct Answer: | Solution: | Maths
+78,CONTENT,0,5 content marker(s),404,5,0,0,13,12,0.6684,0.5999,0.0,True,99c3cadc26,1,False,False,2,,,"Q. 2 | Let p, q and r be real numbers (p ≠ q, r ≠ 0), such that the roots of the | equatio"
+79,CONTENT,0,2 content marker(s),215,2,0,0,3,16,0.6474,0.5999,0.0006,True,0ffb79b741,1,False,False,,,,Correct Answer: | Solution: | As we learnt in
+80,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+81,CONTENT,0,7 content marker(s),192,7,0,0,15,8,0.6471,0.5999,0.0006,True,1dd596950e,1,False,False,3,,,Q. 3 | The least positive integer n for which |  is
+82,CONTENT,0,3 content marker(s),228,3,0,0,8,10,0.7223,0.5999,0.0,True,bbfe780b25,1,False,False,4,,,Q. 4 | Let A  |   and 
+83,CONTENT,0,7 content marker(s),299,7,0,0,15,6,0.6368,0.5999,0.0006,True,f58096d574,1,False,False,5,,,"Q. 5 | The number of values of k for which the  system of linear equations, | has no solut"
+84,CONTENT,0,5 content marker(s),353,5,0,0,13,11,0.6383,0.5999,0.0,True,3e3c925d6f,1,False,False,6,,,"Q. 6 | The number of numbers between 2,000 and 5,000 that can be formed with the digits 0,"
+85,CONTENT,0,5 content marker(s),394,5,0,0,10,7,0.6662,0.5999,0.0007,True,4582921846,1,False,False,7,,,Correct Answer: | 30 | Solution:
+86,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+87,CONTENT,0,3 content marker(s),261,3,0,0,8,13,0.782,0.5999,0.0,True,ef4fb5277e,1,False,False,8,,,Q. 8 | Let    | be in A.P. such that 
+88,CONTENT,0,4 content marker(s),253,4,0,0,11,16,0.6648,0.5999,0.0,True,79e9cf714c,1,False,False,9,,,Q. 9 | The sum of the first 20 terms of the series  |  is 
+89,CONTENT,0,10 content marker(s),138,10,0,0,19,8,0.6641,0.5999,0.0013,True,cde9e82747,1,False,False,10,,,Option 4: | Correct Answer: | Solution:
+90,CONTENT,0,no markers but no ad evidence -> solution continuation,157,0,0,0,1,10,0.6724,0.5999,0.0,True,ef759019fc,1,False,False,,,,As we have learned | Limit of product / quotient - | Limit of product is the product of in
+91,CONTENT,0,7 content marker(s),377,7,0,0,15,8,0.6496,0.5999,0.0007,True,b65d6b086b,1,False,False,11,,,"Q. 11 | If the function f defined as   | is continuous at  x=0, then the ordered pair (k, "
+92,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+93,CONTENT,0,5 content marker(s),188,5,0,0,13,10,0.649,0.5999,0.0,True,975d28c96b,1,False,False,12,,,Q. 12 | If  |  and  
+94,CONTENT,0,5 content marker(s),407,5,0,0,10,11,0.6866,0.5999,0.0007,True,4fdb56d700,1,False,False,13,,,Correct Answer: | -y/x | Solution:
+95,CONTENT,0,7 content marker(s),718,7,0,0,15,5,0.6259,0.5999,0.0007,True,4600df6124,1,False,False,14,,,Q. 14 | If  |  (C is a constant of
+96,CONTENT,0,1 content marker(s),201,1,0,0,5,10,0.7014,0.5999,0.0,True,afd57d6ddf,1,False,False,15,,,Q. 15 | If  | then 
+97,CONTENT,0,6 content marker(s),117,6,0,0,13,14,0.7176,0.5999,0.0006,True,c15dd96e24,1,False,False,,,,Option 1: | Option 2: | Option 3:
+98,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+99,CONTENT,0,7 content marker(s),498,7,0,0,15,9,0.6581,0.5999,0.0007,True,aff33ba47b,1,False,False,16,,,"Q. 16 | If the area of the region bounded by the | curves, "
+100,CONTENT,0,6 content marker(s),272,6,0,0,15,13,0.8017,0.5999,0.0006,True,b47cc5a27e,1,False,False,17,,,Q. 17 | The differential equation representing the family of ellipses having foci either o
+101,CONTENT,0,1 content marker(s),475,1,0,0,1,11,0.6435,0.5999,0.0,True,d0cf1aac36,1,False,False,,,,Solution: | As we have learned | Formation of Differential Equations -
+102,CONTENT,0,7 content marker(s),591,7,0,0,15,8,0.6118,0.5999,0.0018,True,b318382654,1,False,False,18,,,"Q. 18 | The locus of the point of intersection of the lines, |  and "
+103,CONTENT,0,1 content marker(s),372,1,0,0,5,11,0.7721,0.5999,0.0,True,42b45f0140,1,False,False,19,,,"Q. 19 | If a circle C, whose radius is 3, touches externally the circle, | at the point (2"
+104,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+105,CONTENT,0,6 content marker(s),247,6,0,0,11,12,0.6226,0.5999,0.0006,True,501411bedb,1,False,False,,,,Option 1: | Option 2: | Option 3:
+106,CONTENT,0,4 content marker(s),224,4,0,0,11,12,0.7444,0.5999,0.0,True,3ed7f8e4ae,1,False,False,20,,,"Q. 20 | Let P be a point on the parabola,  | . If the distance of P from the centre of the"
+107,CONTENT,0,3 content marker(s),152,3,0,0,5,8,0.771,0.5999,0.0006,True,11722d8d57,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+108,CONTENT,0,2 content marker(s),282,2,0,0,7,13,0.6923,0.5999,0.0,True,674acb4c9b,1,False,False,21,,,Q. 21 | If the length of the latus rectum of an ellipse is 4 units and the distance betwee
+109,CONTENT,0,7 content marker(s),339,7,0,0,15,12,0.636,0.5999,0.0006,True,de6f11f5da,1,False,False,22,,,Option 2: | Option 3: | Option 4:
+110,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+111,CONTENT,0,5 content marker(s),203,5,0,0,9,9,0.6856,0.5999,0.0006,True,732f1a4e7f,1,False,False,,,,Option 2: | -4 | Option 3:
+112,CONTENT,0,7 content marker(s),221,7,0,0,15,11,0.6426,0.5999,0.0007,True,25de3a0db3,1,False,False,23,,,"Q. 23 | If the angle between the lines,   |  and "
+113,CONTENT,0,7 content marker(s),193,7,0,0,15,18,0.7035,0.5999,0.0006,True,12f33d537d,1,False,False,24,,,"Q. 24 | Let  |  , "
+114,CONTENT,0,1 content marker(s),312,1,0,0,5,15,0.6523,0.5999,0.0,True,9f9fb6f417,1,False,False,25,,,"Q. 25 | The mean and the standard deviation(s.d.) of five observations are 9 and 0, respec"
+115,CONTENT,0,6 content marker(s),371,6,0,0,11,5,0.6443,0.5999,0.0007,True,f786d6e32f,1,False,False,,,,Option 1: | 0 | Option 2:
+116,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+117,CONTENT,0,7 content marker(s),396,7,0,0,15,14,0.698,0.5999,0.0006,True,6ca896450b,1,False,False,26,,,"Q. 26 | Let A, B and C be three events, which are pair-wise independent and  |  denotes th"
+118,CONTENT,0,no markers but no ad evidence -> solution continuation,1,0,0,0,1,9,0.7737,0.5999,0.0,True,3bb3056599,1,False,False,,,,-
+119,CONTENT,0,11 content marker(s),849,11,0,0,25,4,0.6302,0.5999,0.0006,True,cb4ccb7817,1,False,False,27 28,,,Q. 27 | Two different families A and B are blessed with an equal number of children. There
+120,CONTENT,0,4 content marker(s),367,4,0,0,9,8,0.694,0.5999,0.0009,True,d4fdd71d0a,1,False,False,29,,,"Option 4: | tanA, cosA | Correct Answer:"
+121,CONTENT,0,6 content marker(s),218,6,0,0,11,11,0.7111,0.5999,0.004,True,721bd2a342,1,False,False,,,,Option 1: | Option 2: | Option 3:
+122,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+123,CONTENT,0,7 content marker(s),618,7,0,0,15,9,0.6121,0.5999,0.0007,True,530dbf50ed,1,False,False,30,,,"Q. 30 | If p→(∼p∨∼q) is false, then the truth values of p and q are respectively : | Optio"
+124,CONTENT,0,7 content marker(s),292,7,0,0,20,12,0.6377,0.5999,0.0006,True,fe3b0dfd79,1,False,False,1,Physics,Online 15th April (Morning Shift),Online 15th April (Morning Shift) | Physics | Q. 1
+125,CONTENT,0,7 content marker(s),623,7,0,0,15,3,0.6522,0.5999,0.0011,True,528dfab06f,1,False,False,2,,,Q. 2 | The velocity-time graphs of a car and a scooter are shown in the figure. (i) The di
+126,CONTENT,0,7 content marker(s),407,7,0,0,15,8,0.614,0.5999,0.0006,True,38c344d837,1,False,False,3,,,Q. 3 | A given object takes n times more time to slide down a  |  rough inclined plane as 
+127,CONTENT,0,no markers but no ad evidence -> solution continuation,91,0,0,0,1,14,0.74,0.5999,0.0,True,4089deef4c,1,False,False,,,,a = acceleration |  coefficient  | - wherein
+128,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+129,CONTENT,0,3 content marker(s),612,3,0,0,8,13,0.6725,0.5999,0.0,True,faa6732997,1,False,False,4,,,"Q. 4 | An automobile, travelling at 40 km/h, can be stopped at a distance of 40 m by | app"
+130,CONTENT,0,11 content marker(s),631,11,0,0,15,6,0.6488,0.5999,0.0009,True,0e502fbf25,1,False,False,5,,,Q. 5 | A particle is oscillating on the X-axis with | an amplitude 2 cm about the point
+131,CONTENT,0,no markers but no ad evidence -> solution continuation,193,0,0,0,3,13,0.6647,0.5999,0.0,True,62438b5dd2,1,False,False,,,,- wherein |  Object distance from pole of mirror. |  Image distance from pole of mirror.
+132,CONTENT,0,7 content marker(s),271,7,0,0,15,8,0.6682,0.5999,0.0006,True,37b9028ed3,1,False,False,6,,,"Q. 6 | A force of 40 N acts on a point B at the | end of an L-shaped object, as shown in"
+133,CONTENT,0,5 content marker(s),558,5,0,0,13,14,0.637,0.5999,0.0,True,1a239c9ab8,1,False,False,7,,,Q. 7 | A body of mass m is moving in a circular | orbit of radius R about a planet of mass
+134,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+135,CONTENT,0,2 content marker(s),127,2,0,0,3,18,0.6673,0.5999,0.0006,True,88af961000,1,False,False,,,,Correct Answer: | Solution: | As we learned
+136,CONTENT,0,3 content marker(s),631,3,0,0,8,17,0.6508,0.5999,0.0,True,6692dbe58f,1,False,False,8,,,Q. 8 | Take the mean distance of the moon and | the sun from the earth to be 
+137,CONTENT,0,7 content marker(s),383,7,0,0,15,13,0.6825,0.5999,0.0006,True,c20e378ba8,1,False,False,9,,,Q. 9 | thin uniform tube is bent into a circle of | radius r in the vertical plane. Equal
+138,CONTENT,0,2 content marker(s),279,2,0,0,8,9,0.7944,0.5999,0.0,True,d8a75535ed,1,False,False,10,,,Q. 10 | A Carnot’s engine works as a refrigerator between 250 K and 300 K. It receives | 5
+139,CONTENT,0,1 content marker(s),146,1,0,0,3,8,0.7121,0.5999,0.0,True,064872492a,1,False,False,,,,Solution: | As we learned  | Coefficient of performance (β) -
+140,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+141,CONTENT,0,7 content marker(s),392,7,0,0,17,6,0.6339,0.5999,0.0009,True,6121364c02,1,False,False,11,,,Q. 11 | One mole of an ideal monoatomic gas is | compressed isothermally in a rigid vessel
+142,CONTENT,0,7 content marker(s),731,7,0,0,15,7,0.6316,0.5999,0.0015,True,dff91b798a,1,False,False,12,,,Q. 12 | A body of mass M and charge q is | connected to a spring of spring constant
+143,CONTENT,0,3 content marker(s),391,3,0,0,8,10,0.6788,0.5999,0.0,True,18b3199676,1,False,False,13,,,Q. 13 | A tuning fork vibrates with frequency | 256 Hz and gives one beat per second with
+144,CONTENT,0,4 content marker(s),353,4,0,0,11,11,0.6495,0.5999,0.0,True,ab20348cc5,1,False,False,14,,,Q. 14 | Charge Q is placed at a distance a/2 above the centre of the square surface of edg
+145,CONTENT,0,6 content marker(s),349,6,0,0,13,9,0.6501,0.5999,0.0006,True,3feed55a2b,1,False,False,15,,,Option 4: | Correct Answer: | Solution:
+146,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+147,CONTENT,0,4 content marker(s),117,4,0,0,7,8,0.6815,0.5999,0.0006,True,888fee1391,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+148,CONTENT,0,2 content marker(s),127,2,0,0,7,6,1.0075,0.5999,0.0,True,f0cd916a7f,1,False,False,16,,,Q. 16 | In the given circuit all resistances are of | value R ohm each. The equivalent
+149,CONTENT,0,5 content marker(s),165,5,0,0,12,6,0.6931,0.5999,0.0007,True,34d790493a,1,False,False,,,,Option 2: | 3R | Option 3:
+150,CONTENT,0,3 content marker(s),463,3,0,0,9,6,0.9096,0.5999,0.0,True,3a1bb613cc,1,False,False,17,,,"Q. 17 | In a meter bridge, as shown in the figure, | it is given that resistance Y=12.5 Ω "
+151,CONTENT,0,4 content marker(s),382,4,0,0,7,8,0.7441,0.5999,0.0011,True,893d21ffe2,1,False,False,,,,Option 3: | 8.16 Ω and 39.5 cm | Option 4:
+152,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+153,CONTENT,0,7 content marker(s),489,7,0,0,15,8,0.6525,0.5999,0.0006,True,6795070905,1,False,False,18,,,"Q. 18 | A Helmholtz coil has a pair of loops, each with N turns and radius R. They are pla"
+154,CONTENT,0,3 content marker(s),359,3,0,0,8,4,0.6831,0.5999,0.0,True,16a83daf09,1,False,False,19,,,Q. 19 | The B-H curve for a ferromagnet is shown | in the figure. The ferromagnet is place
+155,CONTENT,0,7 content marker(s),520,7,0,0,15,3,0.7314,0.5999,0.0007,True,3d6d8445bc,1,False,False,20,,,Q. 20 | An ideal capacitor of capacitance 0.2 μF is charged to a potential difference of 1
+156,CONTENT,0,5 content marker(s),280,5,0,0,13,12,0.7362,0.5999,0.0,True,c0fe543a37,1,False,False,21,,,Q. 21 | A monochromatic beam of light has a frequency  | Hz and is propagating
+157,CONTENT,0,3 content marker(s),729,3,0,0,7,11,0.6847,0.5999,0.0006,True,4a228e2097,1,False,False,22,,,Correct Answer: | Solution: | Q. 22
+158,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+159,CONTENT,0,6 content marker(s),201,6,0,0,11,6,0.7676,0.5999,0.0007,True,b4979afebd,1,False,False,,,,Option 1: | 1.50 | Option 2:
+160,CONTENT,0,7 content marker(s),272,7,0,0,15,13,0.6726,0.5999,0.0006,True,e3bdee4536,1,False,False,23,,,Q. 23 | Light of wavelength 550 nm falls normally on a slit of width 22.0× |  cm. The angu
+161,CONTENT,0,6 content marker(s),379,6,0,0,15,12,0.6484,0.5999,0.0006,True,1b4fa4b4e5,1,False,False,24,,,Q. 24 | Two electrons are moving with non-relativistic speeds perpendicular to each other.
+162,CONTENT,0,4 content marker(s),382,4,0,0,8,14,0.6826,0.5999,0.0,True,78a0d506f4,1,False,False,25,,,Solution: | Q. 25 | The energy required to remove the electron from a singly ionized Heliu
+163,CONTENT,0,3 content marker(s),759,3,0,0,8,12,0.6465,0.5999,0.0,True,e9879cb43b,1,False,False,26,,,Q. 26 | A solution containing active cobalt     |   having activity of 0.8 μCi and decay c
+164,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+165,CONTENT,0,7 content marker(s),456,7,0,0,15,16,0.681,0.5999,0.0006,True,0758e2381f,1,False,False,27,,,"Q. 27 | In a common emitter configuration with suitable bias, it is given that  |  is the "
+166,CONTENT,0,4 content marker(s),612,4,0,0,12,8,0.6772,0.5999,0.0,True,e55bac2abf,1,False,False,28 29,,,Q. 28 | The number of amplitude modulated broadcast stations that can be accomodated in a 
+167,CONTENT,0,6 content marker(s),341,6,0,0,13,11,0.6329,0.5999,0.0006,True,55a06c1a9d,1,False,False,,,,"Option 1: | m, x | Option 2:"
+168,CONTENT,0,4 content marker(s),845,4,0,0,12,9,0.684,0.5999,0.0,True,13ab9cdac3,1,False,False,30 1,Chemistry,,"Q. 30 | In a screw gauge, 5 complete rotations of the screw cause it to move a linear dist"
+169,CONTENT,0,6 content marker(s),369,6,0,0,11,9,0.6518,0.5999,0.0008,True,2fe2a685aa,1,False,False,,,,Option 1: | 0.35 | Option 2:
+170,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+171,CONTENT,0,7 content marker(s),522,7,0,0,15,7,0.6546,0.5999,0.0006,True,c8e6e2b14d,1,False,False,2,,,Q. 2 | Which of the following arrangements shows the schematic alignment of magnetic momen
+172,CONTENT,0,no markers but no ad evidence -> solution continuation,282,0,0,0,1,4,0.7657,0.5999,0.0024,True,4e873c18fd,1,False,False,,,,"Examples:  |     (1)    NiO |     (2)    Manganese, Chromium"
+173,CONTENT,0,7 content marker(s),677,7,0,0,15,4,0.6953,0.5999,0.0024,True,ed5f5a13a3,1,False,False,3,,,Q. 3 | The minimum volume of water required to dissolve 0.1 g lead(II) chloride to get a s
+174,CONTENT,0,3 content marker(s),196,3,0,0,9,16,0.6648,0.5999,0.0,True,8d7b659352,1,False,False,4,,,"Q. 4 | In which of the following reactions, an increase in the volume of the container wil"
+175,CONTENT,0,7 content marker(s),704,7,0,0,14,8,0.6446,0.5999,0.0006,True,b28f63e941,1,False,False,5,,,Option 3: | Option 4: | Correct Answer:
+176,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+177,CONTENT,0,3 content marker(s),586,3,0,0,8,20,0.6443,0.5999,0.0,True,b981f512e1,1,False,False,6,,,Q. 6 |  decomposes to   |  and 
+178,CONTENT,0,7 content marker(s),246,7,0,0,15,15,0.6563,0.5999,0.0006,True,684d2f0421,1,False,False,7,,,"Q. 7 | For which of the following reactions,  |  is equal to "
+179,CONTENT,0,11 content marker(s),1394,11,0,0,25,2,0.6011,0.5999,0.0034,True,e1ce1dfc70,1,False,False,8 9,,,Q. 8 | Which of the following statements about colloids is False ? | Option 1:
+180,CONTENT,0,6 content marker(s),241,6,0,0,12,10,0.6742,0.5999,0.0007,True,7fbe4e2721,1,False,False,10,,,Option 4: | 5.5 | Correct Answer:
+181,CONTENT,0,7 content marker(s),229,7,0,0,15,17,0.6742,0.5999,0.0006,True,64cce67f26,1,False,False,11,,,Q. 11 | For  |  and 
+182,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+183,CONTENT,0,9 content marker(s),688,9,0,0,21,7,0.6167,0.5999,0.0006,True,72825e1c63,1,False,False,12 13,,,"Q. 12 | In the molecular orbital diagram for the molecular ion,  |   the number of electro"
+184,CONTENT,0,11 content marker(s),525,11,0,0,23,8,0.6205,0.5999,0.0016,True,48958ac74c,1,False,False,14,,,Option 2: | Option 3: | Option 4:
+185,CONTENT,0,9 content marker(s),701,9,0,0,19,13,0.6371,0.5999,0.0006,True,4d938324b2,1,False,False,15 16,,,Solution: | Q. 15 | A white sodium salt dissolves readily in water to give a solution whic
+186,CONTENT,0,6 content marker(s),263,6,0,0,11,7,0.6538,0.5999,0.0006,True,433304f666,1,False,False,,,,Option 1: | Option 2: | Option 3:
+187,CONTENT,0,no markers but no ad evidence -> solution continuation,0,0,0,0,1,2,1.4006,0.8008,0.0,True,d4306bd7df,1,False,False,,,,
+188,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+189,CONTENT,0,7 content marker(s),379,7,0,0,15,13,0.6784,0.5999,0.0006,True,8d8f33928c,1,False,False,17,,,Q. 17 | The correct combination is : | Option 1:
+190,CONTENT,0,3 content marker(s),470,3,0,0,9,8,0.7045,0.5999,0.0024,True,4012d91d41,1,False,False,18,,,Q. 18 |              (I)      (II) | H –– N - - - N - - - N
+191,CONTENT,0,10 content marker(s),376,10,0,0,21,12,0.6424,0.5999,0.0017,True,46e701a4fd,1,False,False,19,,,Option 3: | Option 4: | Correct Answer:
+192,CONTENT,0,3 content marker(s),345,3,0,0,7,10,0.6691,0.5999,0.0024,True,934a8a7427,1,False,False,20,,,Solution: | Q. 20 | Xenon hexafluoride on partial hydrolysis produces compounds ‘X’ and ‘Y
+193,CONTENT,0,12 content marker(s),439,12,0,0,23,7,0.6759,0.5999,0.002,True,f49face3a0,1,False,False,21,,,Option 2: | Option 3: | Option 4:
+194,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+195,CONTENT,0,3 content marker(s),340,3,0,0,11,4,0.7206,0.5999,0.001,True,f41dd3b53e,1,False,False,22,,,Q. 22 | Which of the following is the correct structure of Adenosine ? | Option 1:
+196,CONTENT,0,4 content marker(s),141,4,0,0,7,4,0.7134,0.5999,0.0006,True,d06671bf9d,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+197,CONTENT,0,4 content marker(s),118,4,0,0,11,6,0.7257,0.5999,0.0004,True,4b49e738fd,1,False,False,23,,,Q. 23 | The main reduction product of the following compound with NaBH  in methanol is : |
+198,CONTENT,0,8 content marker(s),279,8,0,0,13,5,0.8647,0.5999,0.001,True,572d7a1778,1,False,False,24,,,Option 4: | Correct Answer: | Solution:
+199,CONTENT,0,8 content marker(s),1046,8,0,0,11,3,0.7549,0.5999,0.0053,True,1aa243b13c,1,False,False,25,,,Option 3: | (b) < (a) < (d) < (c)  | Option 4:
+200,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+201,CONTENT,0,6 content marker(s),731,6,0,0,11,1,0.5999,0.5999,0.0014,True,fd0c6540bb,1,False,False,,,,"Option 1: |  (A)-(R), (B)-(S), (C)-(P), (D)-(Q) | Option 2:"
+202,CONTENT,0,7 content marker(s),309,7,0,0,15,8,0.7587,0.5999,0.0006,True,57764bc1ce,1,False,False,26,,,Q. 26 | The copolymer formed by addition polymerization of styrene and acrylonitrile in th
+203,CONTENT,0,6 content marker(s),178,6,0,0,15,7,0.7504,0.5999,0.0007,True,4baa5535e2,1,False,False,27,,,Q. 27 | Which of the following will most readily give the dehydrohalogenation product ? | 
+204,CONTENT,0,6 content marker(s),285,6,0,0,13,6,0.8043,0.5999,0.0,True,c82894fc67,1,False,False,28,,,Solution: | Q. 28 | Which of the following will not exist in zwitter ionic form at pH =7 ?
+205,CONTENT,0,4 content marker(s),711,4,0,0,9,11,0.6898,0.5999,0.0006,True,55a2d30e37,1,False,False,29,,,Correct Answer: | Solution: | Q. 29
+206,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+207,CONTENT,0,5 content marker(s),196,5,0,0,9,6,0.8506,0.5999,0.0016,True,3b193762bd,1,False,False,,,,Option 2: | Option 3: | Option 4:
+208,CONTENT,0,7 content marker(s),249,7,0,0,15,8,0.7444,0.5999,0.0006,True,e2fb55b9ed,1,False,False,30,,,Q. 30 | The reagent(s) required for the following conversion are : | Option 1:
+209,CONTENT,0,5 content marker(s),286,5,0,0,13,4,0.989,0.5999,0.0061,True,3ae742acfa,1,False,False,1,Mathematics,,"Maths | Q. 1 | Consider the following two relations on the set A = {a,b,c},"
+210,CONTENT,0,5 content marker(s),1093,5,0,0,11,6,0.6134,0.5999,0.0016,True,be61aeb79c,1,False,False,2,,,Correct Answer: |  R  is symmetric but it is not transitive. | Solution:
+211,CONTENT,0,4 content marker(s),191,4,0,0,7,15,0.6832,0.5999,0.0006,True,fd9af09607,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+212,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+213,CONTENT,0,7 content marker(s),335,7,0,0,15,17,0.6852,0.5999,0.0006,True,99e78e6bae,1,False,False,3,,,Q. 3 | The set of all   |    for which  
+214,CONTENT,0,7 content marker(s),262,7,0,0,15,9,0.6503,0.5999,0.0006,True,1824a63348,1,False,False,4,,,Q. 4 | Let A be a matrix such that  |   a scalar matrix and 
+215,CONTENT,0,4 content marker(s),254,4,0,0,11,14,0.6552,0.5999,0.0,True,6d6b475f42,1,False,False,5,,,Q. 5 | Let S be the set of all real values of k for which the system of linear equations |
+216,CONTENT,0,3 content marker(s),189,3,0,0,7,11,0.7241,0.5999,0.0039,True,793eb80f6f,1,False,False,,,,Option 4: | equal to R −{0} | Correct Answer:
+217,CONTENT,0,9 content marker(s),512,9,0,0,21,11,0.6831,0.5999,0.0006,True,fee2820e81,1,False,False,6 7,,,"Q. 6 | n-digit numbers are formed using only three digits 2, 5 and 7 (with repitition allo"
+218,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+219,CONTENT,0,5 content marker(s),121,5,0,0,9,14,0.7929,0.5999,0.0006,True,45bf1c62e8,1,False,False,,,,Option 2: | Option 3: | Option 4:
+220,CONTENT,0,3 content marker(s),275,3,0,0,10,18,0.701,0.5999,0.0,True,f80ea69b73,1,False,False,8,,,Q. 8 | If  |  and 
+221,CONTENT,0,10 content marker(s),313,10,0,0,23,13,0.637,0.5999,0.0006,True,cc65d2ec95,1,False,False,9 10,,,"Q. 9 | If b is the first term of an infinite G.P. whose sum is five, then b lies in the in"
+222,CONTENT,0,4 content marker(s),225,4,0,0,9,7,0.7326,0.5999,0.0113,True,53b3707065,1,False,False,,,,Option 3: | exists and is equal to 0. | Option 4:
+223,CONTENT,0,3 content marker(s),316,3,0,0,8,11,0.651,0.5999,0.0,True,8dcb74329a,1,False,False,11,,,"Q. 11 | If  | ,  then the value of "
+224,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+225,CONTENT,0,7 content marker(s),303,7,0,0,15,11,0.6594,0.5999,0.0006,True,5a4cac35ca,1,False,False,12,,,Q. 12 | Let  |  is a differential function. Then S ia a subset of : 
+226,CONTENT,0,4 content marker(s),389,4,0,0,11,13,0.6497,0.5999,0.0,True,7462dd1923,1,False,False,13,,,"Q. 13 | If a right circular cone, having maximum volume, is inscribed in a sphere of radiu"
+227,CONTENT,0,3 content marker(s),238,3,0,0,5,11,0.7046,0.5999,0.0006,True,ca5f69bc07,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+228,CONTENT,0,3 content marker(s),177,3,0,0,9,15,0.7424,0.5999,0.0,True,bf140eb11b,1,False,False,14,,,Q. 14 | ( where C is a constant of integration) | Option 1:
+229,CONTENT,0,4 content marker(s),177,4,0,0,9,13,0.6857,0.5999,0.0006,True,b785fd632e,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+230,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+231,CONTENT,0,7 content marker(s),413,7,0,0,15,10,0.6602,0.5999,0.0008,True,76ca4c267a,1,False,False,15,,,Q. 15 | The area (in sq. units) of the region  |  is :
+232,CONTENT,0,4 content marker(s),93,4,0,0,11,10,0.8278,0.5999,0.0,True,99e6ad7d8a,1,False,False,16,,,Q. 16 | The value of the integral      |    is :
+233,CONTENT,0,3 content marker(s),417,3,0,0,5,10,0.6735,0.5999,0.0006,True,4865949e0e,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+234,CONTENT,0,no markers but no ad evidence -> solution continuation,57,0,0,0,1,8,0.781,0.5999,0.0,True,e3ec4341eb,1,False,False,,,,Check | Odd function  | Since value of  
+235,CONTENT,0,7 content marker(s),430,7,0,0,15,12,0.6518,0.5999,0.0006,True,8fd5a29419,1,False,False,17,,,"Q. 17 | Let y = y(x) be the solution of the differential equation  | , where  "
+236,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+237,CONTENT,0,7 content marker(s),285,7,0,0,15,10,0.7322,0.5999,0.0006,True,5886cf3009,1,False,False,18,,,"Q. 18 | In a triangle ABC, coordinates of A are (1, 2) and the equations of the medians th"
+238,CONTENT,0,1 content marker(s),539,1,0,0,5,6,0.6386,0.5999,0.0,True,c7b98592d0,1,False,False,19,,,"Q. 19 | A circle passes through the points (2, 3) and (4, 5). If its centre lies on the li"
+239,CONTENT,0,6 content marker(s),136,6,0,0,11,9,0.6102,0.5999,0.0006,True,ee33ec9394,1,False,False,,,,Option 1: | Option 2: | Option 3:
+240,CONTENT,0,7 content marker(s),414,7,0,0,15,12,0.756,0.5999,0.0006,True,4e284a8bf3,1,False,False,20,,,"Q. 20 | Two parabolas with a common vertex and with axes along x-axis and y-axis, respecti"
+241,CONTENT,0,1 content marker(s),324,1,0,0,5,10,0.6444,0.5999,0.0,True,f5c383becb,1,False,False,21,,,Q. 21 | If the tangents drawn to the hyperbola  |  intersect the co-ordinate axes at the
+242,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+243,CONTENT,0,6 content marker(s),326,6,0,0,11,8,0.6267,0.5999,0.0006,True,ebf5baf29d,1,False,False,,,,Option 1: | Option 2: | Option 3:
+244,CONTENT,0,no markers but no ad evidence -> solution continuation,88,0,0,0,1,10,0.857,0.5999,0.0,True,64bf82b98d,1,False,False,,,,Equation of Tangent to Hyperbola - | - wherein | For the Hyperbola
+245,CONTENT,0,7 content marker(s),222,7,0,0,15,15,0.6468,0.5999,0.0006,True,586d7f3b5b,1,False,False,22,,,"Q. 22 | If β is one of the angles between the normals to the ellipse,  |  at the points "
+246,CONTENT,0,4 content marker(s),489,4,0,0,11,13,0.665,0.5999,0.0,True,54fc6eea36,1,False,False,23,,,"Q. 23 | A variable plane passes through a fixed point (3, 2, 1) and meets x, y and z axes "
+247,CONTENT,0,3 content marker(s),281,3,0,0,5,9,0.6879,0.5999,0.0011,True,6051501842,1,False,False,,,,Option 4: | Correct Answer: | Solution:
+248,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+249,CONTENT,0,7 content marker(s),326,7,0,0,15,12,0.6532,0.5999,0.0006,True,b465a8f461,1,False,False,24,,,"Q. 24 | An angle between the plane,  |  and the line of intersection of the planes,"
+250,CONTENT,0,5 content marker(s),144,5,0,0,13,14,0.7925,0.5999,0.0,True,f01deba6a7,1,False,False,25,,,Q. 25 | If  |  are unit vectors such that 
+251,CONTENT,0,9 content marker(s),406,9,0,0,17,15,0.635,0.5999,0.0012,True,2c6dd53f2a,1,False,False,26,,,Correct Answer: | Solution: | Q. 26
+252,CONTENT,0,7 content marker(s),628,7,0,0,15,8,0.6707,0.5999,0.0006,True,f7b9becb53,1,False,False,27,,,"Q. 27 | A box ‘A’ contains 2 white, 3 red and 2 black balls. Another box ‘B’ contains 4 wh"
+253,CONTENT,0,3 content marker(s),413,3,0,0,10,10,0.6865,0.5999,0.0,True,b6e93d9411,1,False,False,28,,,"Q. 28 | If tanA and tanB are the roots of the quadratic equation, then the value of  |  is"
+254,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+255,CONTENT,0,7 content marker(s),476,7,0,0,15,9,0.6968,0.5999,0.0041,True,87df4afcb2,1,False,False,29,,,"Q. 29 | An aeroplane flying at a constant speed, parallel to the horizontal ground,  |  km"
+256,CONTENT,0,7 content marker(s),358,7,0,0,15,8,0.6401,0.5999,0.0007,True,2ddcc242d9,1,False,False,30,,,"Q. 30 | If   |  is false, then the truth values of p, q and r are,"
+257,CONTENT,0,no markers but no ad evidence -> solution continuation,41,0,0,0,1,3,0.7541,0.5999,0.0,True,eadf03f2dd,1,False,False,,,,for  |  to be 0  | pqr must be (TFT) or (TFF)
+258,CONTENT,0,7 content marker(s),409,7,0,0,20,16,0.6523,0.5999,0.0006,True,b694eefa81,1,False,False,1,Physics,Online 15th April (Evening Shift),Online 15th April (Evening Shift) | Physics | Q. 1
+259,CONTENT,0,7 content marker(s),454,7,0,0,15,9,0.7484,0.5999,0.0006,True,86649d556e,1,False,False,2,,,Q. 2 | A man in a car at location Q on a straight highway is moving with speed v. He decid
+260,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+261,CONTENT,0,3 content marker(s),460,3,0,0,8,13,0.733,0.5999,0.0,True,8de352edef,1,False,False,3,,,Q. 3 | A body of mass 2 kg slides down with an acceleration of 3  |  on a rough inclined p
+262,REVIEW,2,ambiguous (score 2): coloured 2.1% (content baseline 0.13%),226,0,0,0,1,10,0.7752,0.5999,0.0206,True,27f0869a1e,1,False,False,,,,"Case -1 : block sliding down-     |                From the figure, | substituting values-"
+263,CONTENT,0,7 content marker(s),373,7,0,0,15,8,0.687,0.5999,0.0435,True,9ee30b2196,1,False,False,4,,,Q. 4 | A proton of mass m collides elastically with a particle of unknown mass at rest. Af
+264,CONTENT,0,2 content marker(s),376,2,0,0,8,13,0.7635,0.5999,0.0,True,6f38baa989,1,False,False,5,,,Q. 5 | A disc rotates about its axis of symmetry in a horizontal plane at a steady rate of
+265,CONTENT,0,1 content marker(s),387,1,0,0,1,10,0.7347,0.5999,0.0,True,5a60560401,1,False,False,,,,Solution: | As we have learnt | Limiting Friction -
+266,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+267,CONTENT,0,7 content marker(s),655,7,0,0,15,10,0.6321,0.5999,0.0006,True,b49e1e9914,1,False,False,6,,,Q. 6 | A thin uniform bar of length L and mass 8 m lies on a smooth horizontal table. Two 
+268,CONTENT,0,no markers but no ad evidence -> solution continuation,243,0,0,0,1,11,0.7979,0.5999,0.0,True,7770623359,1,False,False,,,,Law of conservation of angular moment - | - wherein | If net torque is zero
+269,CONTENT,0,7 content marker(s),426,7,0,0,15,11,0.7153,0.5999,0.0006,True,56c819bdb5,1,False,False,7,,,"Q. 7 | A thin rod MN, free to rotate in the vertical plane about the fixed end N, is held "
+270,CONTENT,0,3 content marker(s),467,3,0,0,8,14,0.652,0.5999,0.0,True,8e8a0b5c69,1,False,False,8,,,"Q. 8 | As shown in the figure, forces of  |  N each are applied in opposite directions, on"
+271,CONTENT,0,7 content marker(s),463,7,0,0,15,9,0.646,0.5999,0.0007,True,13d0b3dd9f,1,False,False,9,,,"Q. 9 | When an air bubble of radius r rises from the bottom to the surface of a lake, its "
+272,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+273,CONTENT,0,7 content marker(s),524,7,0,0,15,14,0.6566,0.5999,0.0006,True,c346fbc4fd,1,False,False,10,,,Q. 10 | Two Carnot engines A and B are operated in series. Engine A receives heat from a r
+274,CONTENT,0,no markers but no ad evidence -> solution continuation,58,0,0,0,1,10,0.7631,0.5999,0.0,True,6c5054c086,1,False,False,,,,- wherein |  Source temperature |  Sink Temperature
+275,CONTENT,0,5 content marker(s),554,5,0,0,14,12,0.6408,0.5999,0.0,True,57e8910564,1,False,False,11 12,,,Q. 11 | The value closest to the thermal velocity of a Helium atom at room temperature (30
+276,CONTENT,0,5 content marker(s),442,5,0,0,9,7,0.6672,0.5999,0.0018,True,74f3c8f283,1,False,False,,,,"Option 2: | Parameters              Curve | A =B, a =b ; δ= π/2        Line"
+277,CONTENT,0,7 content marker(s),398,7,0,0,15,12,0.6602,0.5999,0.0008,True,39b8ab15e1,1,False,False,13,,,Q. 13 | 5 beats/second are heard when a tuning fork is sounded with a sonometer wire under
+278,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+279,CONTENT,0,7 content marker(s),245,7,0,0,15,18,0.6527,0.5999,0.0006,True,4c512f3eec,1,False,False,14,,,Q. 14 | A solid ball of radius R has a charge density  given by = |  for 0 ≤ r ≤ R. The
+280,CONTENT,0,3 content marker(s),314,3,0,0,9,14,0.6876,0.5999,0.0,True,3fb8987972,1,False,False,15,,,Q. 15 | A parallel plate capacitor with area 200  |  and separation between the plates 1.5
+281,CONTENT,0,4 content marker(s),128,4,0,0,7,8,0.7651,0.5999,0.0008,True,a4cfa2f92a,1,False,False,,,,Option 3: | 300 V | Option 4:
+282,CONTENT,0,7 content marker(s),358,7,0,0,15,12,0.6422,0.5999,0.0006,True,5da3e1c190,1,False,False,16,,,Q. 16 | A copper rod of cross-sectional area A carries a uniform current I through it. At 
+283,CONTENT,0,7 content marker(s),453,7,0,0,15,13,0.6503,0.5999,0.0008,True,9012344cea,1,False,False,17,,,Q. 17 | A capacitor  | =1.0 µF is charged up to a voltage V =60 V by connecting it to batt
+284,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+285,CONTENT,0,3 content marker(s),336,3,0,0,8,10,0.6424,0.5999,0.0,True,13a991b61a,1,False,False,18,,,Q. 18 | A current of 1 A is flowing on the sides of an equilateral triangle of side 4.5 × 
+286,CONTENT,0,no markers but no ad evidence -> solution continuation,20,0,0,0,1,9,0.9508,0.5999,0.0,True,156838b760,1,False,False,,,,Total Magnetic field
+287,CONTENT,0,7 content marker(s),552,7,0,0,15,7,0.6284,0.5999,0.0006,True,f3de2cba49,1,False,False,19,,,"Q. 19 | At the centre of a fixed large circular coil of radius R, a much smaller circular "
+288,CONTENT,0,no markers but no ad evidence -> solution continuation,116,0,0,0,3,7,0.7954,0.5999,0.0,True,d9af6b52b7,1,False,False,,,,So At the centre of a fixed large circular coil of radius R | At time t  the smaller coil 
+289,CONTENT,0,7 content marker(s),513,7,0,0,15,12,0.641,0.5999,0.0006,True,ae89d5dada,1,False,False,20,,,"Q. 20 | A copper rod of mass m slides under gravity on two smooth parallel rails, with sep"
+290,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+291,REVIEW,0,markerless page following an ad page,174,0,0,0,3,15,0.6479,0.5999,0.0,True,7dc5efa60a,1,False,False,,,,and  | Induced Current - | Similarly
+292,CONTENT,0,8 content marker(s),704,8,0,0,19,12,0.6394,0.5999,0.0006,True,1ebea3864f,1,False,False,21 22,,,Q. 21 | A plane polarized monochromatic EM wave is travelling in a vacuum along z-directio
+293,CONTENT,0,11 content marker(s),485,11,0,0,23,12,0.6592,0.5999,0.0009,True,b91a7cd8bd,1,False,False,23,,,"Option 1: | 10 cm, 12 cm | Option 2:"
+294,CONTENT,0,4 content marker(s),653,4,0,0,9,19,0.6263,0.5999,0.0006,True,b98a054003,1,False,False,24,,,Correct Answer: | Solution: | Q. 24
+295,CONTENT,0,5 content marker(s),128,5,0,0,9,8,0.6461,0.5999,0.0007,True,1a6c27c78d,1,False,False,,,,Option 2: | 2 : 1 | Option 3:
+296,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+297,CONTENT,0,11 content marker(s),760,11,0,0,15,15,0.6175,0.5999,0.0009,True,3b2a55fae7,1,False,False,25,,,Q. 25 | Muon (  | ) is a negatively charged ( |q| = |e| ) particle with a mass 
+298,CONTENT,0,6 content marker(s),388,6,0,0,15,8,0.646,0.5999,0.0007,True,8e863ad96e,1,False,False,26,,,Q. 26 | . An unstable heavy nucleus at rest breaks into two nuclei which move away with ve
+299,CONTENT,0,3 content marker(s),174,3,0,0,7,9,0.7144,0.5999,0.0005,True,278d390a26,1,False,False,27,,,Solution: | Q. 27 | Truth table for the following digital circuit will be :
+300,CONTENT,0,5 content marker(s),121,5,0,0,9,7,0.6928,0.5999,0.0026,True,e80f593d25,1,False,False,,,,Option 2: | Option 3: | Option 4:
+301,CONTENT,0,no markers but no ad evidence -> solution continuation,67,0,0,0,1,5,0.8779,0.5999,0.0,True,3ce76aba47,1,False,False,,,,NAND gate - | NOT + AND gate | - wherein
+302,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+303,CONTENT,0,7 content marker(s),468,7,0,0,15,3,0.7213,0.5999,0.0011,True,d01a79a5a9,1,False,False,28,,,Q. 28 | The carrier frequency of a transmitter is provided by a tank circuit of a coil of 
+304,CONTENT,0,7 content marker(s),497,7,0,0,15,11,0.6591,0.5999,0.0011,True,cb6c67743f,1,False,False,29,,,Q. 29 | A constant voltage is applied between two ends of a metallic wire. If the length i
+305,CONTENT,0,5 content marker(s),542,5,0,0,14,13,0.6744,0.5999,0.0,True,684852afde,1,False,False,30 1,Chemistry,,Q. 30 | A body takes 10 minutes to cool from  |  to 
+306,CONTENT,0,5 content marker(s),373,5,0,0,9,33,0.6895,0.5999,0.0006,True,770a74486c,1,False,False,,,,Option 2: | Option 3: | Option 4:
+307,CONTENT,0,7 content marker(s),409,7,0,0,15,3,0.7304,0.5999,0.0492,True,d1ca081454,1,False,False,2,,,Q. 2 | All of the following share the same crystal structure excepts. | Option 1:
+308,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+309,CONTENT,0,10 content marker(s),603,10,0,0,22,10,0.6238,0.5999,0.0009,True,a490220542,1,False,False,3 4,,,Q. 3 | The de-Broglie’s wavelength of electron present in first Bohr orbit of ‘H’ atom is 
+310,CONTENT,0,3 content marker(s),294,3,0,0,11,11,0.7799,0.5999,0.0,True,908b6b1f6b,1,False,False,5,,,"Q. 5 | Given:  | Free energy change, "
+311,CONTENT,0,7 content marker(s),563,7,0,0,15,12,0.6349,0.5999,0.0006,True,1f2b2785a3,1,False,False,6,,,Q. 6 | Two 5 molal solutions are prepared by dissolving a non-electrolyte non-volatile sol
+312,CONTENT,0,7 content marker(s),383,7,0,0,15,8,0.7523,0.5999,0.0006,True,c8e735fc03,1,False,False,7,,,Q. 7 | Following four solutions are prepared by mixing different volumes of NaOH and HCl o
+313,CONTENT,0,no markers but no ad evidence -> solution continuation,1545,0,0,0,2,2,0.6546,0.5999,0.0,True,a0546ff27c,1,False,False,,,,"If solution is neutral, then: | K  = [H O ][OH ] | From the ionic product of water, we kno"
+314,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+315,REVIEW,0,markerless page following an ad page,482,0,0,0,2,5,0.7425,0.5999,0.0,True,55b24cc8ba,1,False,False,,,,"Thus, pH of HNO  is 2.7 | 10  M H SO | Since H SO  is a strong acid, thus it will dissocia"
+316,CONTENT,0,7 content marker(s),534,7,0,0,15,13,0.6233,0.5999,0.0007,True,0ce64f974e,1,False,False,8,,,"Q. 8 | At a certain temperature in a 5 L vessel, 2 moles of carbon monoxide and 3 moles of"
+317,CONTENT,0,7 content marker(s),326,7,0,0,17,11,0.6694,0.5999,0.0006,True,6da87067ac,1,False,False,9,,,"Q. 9 | If   gram of gas is adsorbed by m gram of absorbent at pressure P, the plot of   | "
+318,CONTENT,0,7 content marker(s),384,7,0,0,18,8,0.7543,0.5999,0.0,True,461c162a0b,1,False,False,10 11,,,"Q. 10 | For a first-order reaction,  |  , "
+319,CONTENT,0,10 content marker(s),1055,10,0,0,21,10,0.6081,0.5999,0.0034,True,14f4b65959,1,False,False,12,,,Option 4: | An antibonding  orbital | Correct Answer:
+320,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+321,CONTENT,0,10 content marker(s),531,10,0,0,23,2,0.6224,0.5999,0.0012,True,1e527bd2a8,1,False,False,13 14,,,"Q. 13 | In KO , the nature of oxygen species and the oxidation state of oxygen atom are, |"
+322,CONTENT,0,10 content marker(s),576,10,0,0,21,3,0.605,0.5999,0.0018,True,9720aeeff3,1,False,False,15,,,Option 3: | 12 | Option 4:
+323,CONTENT,0,8 content marker(s),921,8,0,0,27,6,0.6152,0.5999,0.0017,True,df288e6577,1,False,False,16,,,Solution: | Q. 16 | The correct order of spin-only magnetic moments among the following is
+324,CONTENT,0,9 content marker(s),654,9,0,0,43,2,0.6,0.5999,0.0008,True,a1a97c8da4,1,False,False,17 18,,,Q. 17 | The correct order of electron affinity is : | Option 1:
+325,CONTENT,0,12 content marker(s),742,12,0,0,23,8,0.6148,0.5999,0.0023,True,3cab977a05,1,False,False,19,,,"Option 2: | 4, 2, 2 | Option 3:"
+326,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+327,CONTENT,0,7 content marker(s),768,7,0,0,37,9,0.6121,0.5999,0.0007,True,124c55fb55,1,False,False,20,,,Q. 20 | The total number of possible isomers for square-planar [Pt(Cl)(NO )(NO )(SCN)] | i
+328,CONTENT,0,12 content marker(s),1112,12,0,0,34,1,0.5999,0.5999,0.0019,True,b47e950441,1,False,False,21 22,,,Q. 21 | Two compounds I and II are eluted by column chromatography (adsorption of I > II).
+329,CONTENT,0,9 content marker(s),1069,9,0,0,17,2,0.693,0.5999,0.0048,True,1bc379bd90,1,False,False,23,,,Correct Answer: | Chain growth polymerisation involves homopolymerisation only. | Solution
+330,CONTENT,0,7 content marker(s),448,7,0,0,15,3,0.7689,0.5999,0.0037,True,e4d9704b95,1,False,False,24,,,Q. 24 | The increasing order of the acidity of the following carboxylic acids is: | Option
+331,CONTENT,0,4 content marker(s),242,4,0,0,11,5,0.7767,0.5999,0.0,True,b4932fafaa,1,False,False,25,,,Q. 25 | The major product formed in the following reaction is : | Option 1:
+332,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+333,CONTENT,0,4 content marker(s),341,4,0,0,9,7,0.8041,0.5999,0.0006,True,bf040697a9,1,False,False,26,,,Option 4: | Correct Answer: | Solution:
+334,CONTENT,0,6 content marker(s),332,6,0,0,11,4,0.7262,0.5999,0.0053,True,580d06a4a0,1,False,False,,,,Option 1: | C1−O2 | Option 2:
+335,CONTENT,0,12 content marker(s),949,12,0,0,15,2,0.7068,0.5999,0.001,True,8f45c0c4c7,1,False,False,27,,,Q. 27 | The increasing order of diazotization of the following compounds is : | Option 1:
+336,CONTENT,0,5 content marker(s),504,5,0,0,13,7,0.8268,0.5999,0.0,True,57c4d9c6a9,1,False,False,28,,,"Q. 28 | The dipeptide, Gln-Gly, on treatment with CH COCl followed by aqueous work up give"
+337,CONTENT,0,5 content marker(s),403,5,0,0,11,5,0.7756,0.5999,0.0006,True,8fa1c62254,1,False,False,29,,,Correct Answer: | Solution: | Q. 29
+338,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+339,CONTENT,0,5 content marker(s),276,5,0,0,11,4,0.8223,0.5999,0.0008,True,3b0548ded4,1,False,False,30,,,Option 3: | Six | Option 4:
+340,CONTENT,0,4 content marker(s),39,4,0,0,9,5,0.9052,0.5999,0.0,True,2853ba99cb,1,False,False,,,,Option 1: | Option 2: | Option 3:
+341,CONTENT,0,5 content marker(s),336,5,0,0,11,9,0.778,0.5999,0.0006,True,1010f44804,1,False,False,1,Mathematics,,Correct Answer: | Solution: | Maths
+342,CONTENT,0,6 content marker(s),538,6,0,0,13,13,0.6493,0.5999,0.001,True,3cafdcc756,1,False,False,2,,,Option 3: | invertible and  | Option 4:
+343,CONTENT,0,5 content marker(s),187,5,0,0,9,16,0.6259,0.5999,0.0006,True,dd70139dfb,1,False,False,,,,Option 2: | Option 3: | Option 4:
+344,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+345,CONTENT,0,7 content marker(s),395,7,0,0,15,14,0.6152,0.5999,0.0006,True,0666747a38,1,False,False,3,,,Q. 3 | If  |  then the difference between the greatest value and the least value of 
+346,CONTENT,0,3 content marker(s),361,3,0,0,8,9,0.7403,0.5999,0.0,True,ab696ba5b3,1,False,False,4,,,"Q. 4 | Suppose A is any 3×3 non-singular matrix and (A−3I)(A−5I)=O, where I=I and O=O . If"
+347,CONTENT,0,7 content marker(s),311,7,0,0,15,15,0.6419,0.5999,0.0006,True,18f6ece7f0,1,False,False,5,,,Q. 5 | If the system of linear equations | x+ay+z=3
+348,CONTENT,0,1 content marker(s),259,1,0,0,5,17,0.671,0.5999,0.0,True,764a314979,1,False,False,6,,,Q. 6 | The number of four letter words that can be formed using the letters of the word BA
+349,CONTENT,0,8 content marker(s),619,8,0,0,18,8,0.6187,0.5999,0.0007,True,f5251ac75d,1,False,False,7,,,Option 1: | 120 | Option 2:
+350,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+351,CONTENT,0,8 content marker(s),258,8,0,0,15,14,0.7006,0.5999,0.0006,True,88857087a1,1,False,False,8,,,"Solution: | Q. 8 | If a, b, c are in A.P. and "
+352,CONTENT,0,1 content marker(s),466,1,0,0,5,14,0.6866,0.5999,0.0,True,cdb735b53b,1,False,False,9,,,Q. 9 | Let  |  and 
+353,CONTENT,0,6 content marker(s),182,6,0,0,11,11,0.6724,0.5999,0.0006,True,236d478055,1,False,False,,,,Option 1: | 9 | Option 2:
+354,CONTENT,0,3 content marker(s),127,3,0,0,10,12,0.7271,0.5999,0.0,True,04625faca4,1,False,False,10,,,Q. 10 |  equals : | Correct Answer:
+355,CONTENT,0,7 content marker(s),271,7,0,0,15,10,0.6431,0.5999,0.0006,True,5329edc08f,1,False,False,11,,,Q. 11 | The value of k for which f is continuous at x=2 is : | Option 1:
+356,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+357,CONTENT,0,7 content marker(s),213,7,0,0,15,16,0.6524,0.5999,0.0006,True,ee42260996,1,False,False,12,,,"Q. 12 | If  | , then "
+358,CONTENT,0,1 content marker(s),123,1,0,0,5,15,0.7151,0.5999,0.0,True,61e95833de,1,False,False,13,,,Q. 13 | Let f (x) be a polynomial of degree 4 having extreme values at x=1 and x=2. | If 
+359,CONTENT,0,6 content marker(s),157,6,0,0,11,15,0.6633,0.5999,0.0006,True,e66f03bf53,1,False,False,,,,Option 1: | Option 2: | Option 3:
+360,CONTENT,0,7 content marker(s),324,7,0,0,15,12,0.6764,0.5999,0.0008,True,aac19fa773,1,False,False,14,,,"Q. 14 | If  | (where C is a constant of integration), then the ordered pair (A, B) is equa"
+361,CONTENT,0,no markers but no ad evidence -> solution continuation,213,0,0,0,1,11,0.7047,0.5999,0.0,True,0ea75d8ef8,1,False,False,,,,Integration by perfect square method - | - wherein | Make the coefficient of 
+362,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+363,CONTENT,0,7 content marker(s),200,7,0,0,15,11,0.6718,0.5999,0.0006,True,efa522a335,1,False,False,15,,,Q. 15 | The value of integral    |  is
+364,CONTENT,0,2 content marker(s),15,2,0,0,7,7,0.8434,0.5999,0.0,True,062ed1e1d4,1,False,False,16,,,Q. 16 | Option 1:
+365,CONTENT,0,12 content marker(s),354,12,0,0,23,12,0.6335,0.5999,0.0018,True,061f75eece,1,False,False,17,,,Option 2: | Option 3: | Option 4:
+366,CONTENT,0,4 content marker(s),323,4,0,0,11,11,0.6798,0.5999,0.0,True,d2ee001657,1,False,False,18,,,"Q. 18 | The sides of a rhombus ABCD are parallel to the lines, x − y + 2 = 0 and 7x − y + "
+367,CONTENT,0,9 content marker(s),464,9,0,0,19,10,0.6331,0.5999,0.0013,True,f3576e7a50,1,False,False,19,,,Option 4: | Correct Answer: | Solution:
+368,AD,10,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,False,,,,4 | The only counselling package you will ever need | B.Tech Companion 
+369,CONTENT,0,1 content marker(s),225,1,0,0,1,8,0.7514,0.5999,0.0,True,316d39cc40,1,False,False,,,,"Solution: | As we learned, | Selection formula -"
+370,CONTENT,0,4 content marker(s),303,4,0,0,11,21,0.7147,0.5999,0.0,True,a3f24099c3,1,False,False,20,,,"Q. 20 | The tangent to the circle  |  at the point (2, 1) cuts off a chord of"
+371,CONTENT,0,10 content marker(s),529,10,0,0,19,9,0.6333,0.5999,0.0013,True,57f97f1ef3,1,False,False,21,,,Option 4: | Correct Answer: | Solution:
+372,CONTENT,0,3 content marker(s),367,3,0,0,9,10,0.6871,0.5999,0.0008,True,ec219b4418,1,False,False,22,,,"Q. 22 | A normal to the hyperbola,  |  meets the co-ordinate axes x and y at A and B,"
+373,CONTENT,0,4 content marker(s),442,4,0,0,9,15,0.6608,0.5999,0.0006,True,4b809754b6,1,False,False,,,,Option 3: | Option 4: | Correct Answer:
+374,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,False,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+375,CONTENT,0,7 content marker(s),370,7,0,0,15,13,0.6406,0.5999,0.0006,True,527f462c5c,1,False,False,23,,,"Q. 23 | An angle between the lines whose direction cosines are given by the equations,  | "
+376,CONTENT,0,no markers but no ad evidence -> solution continuation,266,0,0,0,1,18,0.7495,0.5999,0.0015,True,1a66b4ea5b,1,False,False,,,,Substitute (i) in (ii) |   and   | m=-n 
+377,CONTENT,0,7 content marker(s),392,7,0,0,15,7,0.6732,0.5999,0.0008,True,4b760e8dcf,1,False,False,24,,,"Q. 24 | A plane bisects the line segment joining the points (1, 2, 3) and (−3, 4, 5) at ri"
+378,CONTENT,0,2 content marker(s),570,2,0,0,7,13,0.6648,0.5999,0.0,True,5925867435,1,False,False,25,,,"Q. 25 | If the position vectors of the vertices A, B and C of a ΔABC are respectively  |  "
+379,CONTENT,0,5 content marker(s),170,5,0,0,9,10,0.7209,0.5999,0.0243,True,3b0b5e53ad,1,False,False,,,,Option 2: | Option 3: | Option 4:
+380,AD,11,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,False,,,,2 | Prepare for JEE Main with our | Knockout Programs
+381,CONTENT,0,7 content marker(s),570,7,0,0,15,10,0.6389,0.5999,0.0006,True,b712258693,1,False,False,26,,,Q. 26 | A player X has a biased coin whose probability of showing heads is p and a player 
+382,CONTENT,0,5 content marker(s),537,5,0,0,13,8,0.661,0.5999,0.0,True,e956c0f6a6,1,False,False,27,,,"Q. 27 | If the mean of the data : 7, 8, 9, 7, 8, 7, λ, 8 is 8, then the variance of this d"
+383,CONTENT,0,2 content marker(s),344,2,0,0,5,9,0.6615,0.5999,0.0006,True,e56704c0e3,1,False,False,,,,Correct Answer: | 1 | Solution:
+384,CONTENT,0,7 content marker(s),281,7,0,0,15,7,0.6506,0.5999,0.0017,True,6988775bcb,1,False,False,28,,,"Q. 28 | The number of solutions of  | , in the interval "
+385,CONTENT,0,7 content marker(s),582,7,0,0,15,7,0.6951,0.5999,0.0034,True,70ae48c328,1,False,False,29,,,Q. 29 | A tower T of height 60 m is located exactly opposite to a tower T  of height 80 m 
+386,AD,10,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,False,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+387,REVIEW,0,markerless page following an ad page,0,0,0,0,3,4,0.8692,0.5999,0.0034,True,1ed065e2ce,1,False,False,,,,
+388,CONTENT,0,7 content marker(s),600,7,0,0,15,5,0.6289,0.5999,0.0007,True,74a2141b4b,1,False,False,30,,,Q. 30 | Consider the following two statements : | Statement p :
+389,REVIEW,1,ambiguous (score 1): outside question range (front/back matter),25,0,0,0,1,4,0.6555,0.5999,0.0,True,186c364cc4,1,False,True,,,,"Sq  | p is False, q is True"
+390,AD,12,"no markers; repeated template x17, hyperlink x1, ad keyword x1, draw_ops=240, no template watermark, coloured 42.9% (content baseline 0.13%), outside question range (front/back matter)",159,0,1,1,240,37,1.6085,1.0,0.4288,False,c09a104647,17,True,True,,,,1 | AI BASED ONLINE LEARNING PROGRAM | JEE MAIN
+391,AD,12,"no markers; repeated template x17, hyperlink x1, ad keyword x3, draw_ops=79, no template watermark, coloured 39.4% (content baseline 0.13%), outside question range (front/back matter)",251,0,3,1,79,12,2.8856,1.0,0.3935,False,7ed3c8ec6e,17,True,True,,,,2 | Prepare for JEE Main with our | Knockout Programs
+392,AD,11,"no markers; repeated template x18, hyperlink x1, ad keyword x6, no template watermark, coloured 7.3% (content baseline 0.13%), outside question range (front/back matter)",518,0,6,1,12,5,0.265,0.2602,0.073,False,b102a603a7,18,True,True,,,,3 | Prepare with Careers360 Rank Booster | Study 23% of Syllabus and score more than 71% o
+393,AD,11,"no markers; repeated template x16, hyperlink x1, ad keyword x9, no template watermark, coloured 28.3% (content baseline 0.13%), outside question range (front/back matter)",553,0,9,1,36,2,0.4788,0.4562,0.2826,False,b4b4ae1a36,16,True,True,,,,4 | The only counselling package you will ever need | B.Tech Companion 

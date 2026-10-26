@@ -1,0 +1,26 @@
+# Pipeline output. Regenerate with run_all.py; never commit it.
+# A single 393-page run at 600 DPI is ~290 MB of PNGs plus two 19 MB PDFs.
+out/
+out*/
+
+# Rendered images and split PDFs, wherever an --outdir happens to put them.
+pages/
+removed/
+content.pdf
+removed_ads.pdf
+render_failures.json
+
+# Reviewed, reusable profiles ARE tracked (profiles/), but a profile.json
+# dropped at the root is a leftover from a run and is not.
+/profile.json
+/questions_index.csv
+/sections.json
+/split_plan.json
+/page_map.csv
+/classification_log.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/stage1_gate_report.json
